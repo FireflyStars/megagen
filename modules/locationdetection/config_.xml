@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>locationdetection</name>
+	<displayName><![CDATA[Location and Currency Detection]]></displayName>
+	<version><![CDATA[1.3.3]]></version>
+	<description><![CDATA[Uses the user\&#039;s IP Address to detect their location (from a local database), and redirect to their language and currencey.]]></description>
+	<author><![CDATA[Presto-Changeo]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

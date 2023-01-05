@@ -1,0 +1,57 @@
+Product ID*;Product Reference;Attribute (Name:Type:Position)*;Value (Value:Position)*;Supplier reference;Reference;EAN13;UPC;Wholesale price;Impact on price;Ecotax;Quantity;Minimal quantity;Impact on weight;Default (0 = No, 1 = Yes);Combination available date;Image position;Image URL;Delete existing images (0 = No, 1 = Yes);ID / Name of shop;Advanced Stock Managment;Depends on stock;Warehouse
+3;AnyRidge Cover Screw;Height (mm):select:1;0.8:1;;AANCSF3508;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+3;AnyRidge Cover Screw;Height (mm):select:1;1.6:2;;AANCSF3516;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+3;AnyRidge Cover Screw;Height (mm):select:1;2.6:3;;AANCSF3526;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+4;AnyRidge Healing Abutment;Profile Diameter:select:1, Height (mm):select:2;4.0:1, 3:1;;AANHAF0403;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+4;AnyRidge Healing Abutment;Profile Diameter:select:1, Height (mm):select:2;4.0:1, 4:2;;AANHAF0404;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+4;AnyRidge Healing Abutment;Profile Diameter:select:1, Height (mm):select:2;4.0:1, 5:3;;AANHAF0405;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+4;AnyRidge Healing Abutment;Profile Diameter:select:1, Height (mm):select:2;4.0:1, 6:4;;AANHAF0406;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+4;AnyRidge Healing Abutment;Profile Diameter:select:1, Height (mm):select:2;4.0:1, 7:5;;AANHAF0407;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+4;AnyRidge Healing Abutment;Profile Diameter:select:1, Height (mm):select:2;5.0:1, 3:1;;AANHAF0503;;;;5;;1000;1;0;0;;;;0;1;0;0;0
+4;AnyRidge Healing Abutment;Profile Diameter:select:1, Height (mm):select:2;5.0:1, 4:2;;AANHAF0504;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+4;AnyRidge Healing Abutment;Profile Diameter:select:1, Height (mm):select:2;5.0:1, 5:3;;AANHAF0505;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+4;AnyRidge Healing Abutment;Profile Diameter:select:1, Height (mm):select:2;5.0:1, 6:4;;AANHAF0506;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+4;AnyRidge Healing Abutment;Profile Diameter:select:1, Height (mm):select:2;5.0:1, 7:5;;AANHAF0507;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+4;AnyRidge Healing Abutment;Profile Diameter:select:1, Height (mm):select:2;6.0:1, 3:1;;AANHAF0603;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+4;AnyRidge Healing Abutment;Profile Diameter:select:1, Height (mm):select:2;6.0:1, 4:2;;AANHAF0604;;;;-5;;1000;1;0;0;;;;0;1;0;0;0
+4;AnyRidge Healing Abutment;Profile Diameter:select:1, Height (mm):select:2;6.0:1, 5:3;;AANHAF0605;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+4;AnyRidge Healing Abutment;Profile Diameter:select:1, Height (mm):select:2;6.0:1, 6:4;;AANHAF0606;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+4;AnyRidge Healing Abutment;Profile Diameter:select:1, Height (mm):select:2;6.0:1, 7:5;;AANHAF0607;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+4;AnyRidge Healing Abutment;Profile Diameter:select:1, Height (mm):select:2;7.0:1, 3:1;;AANHAF0703;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+4;AnyRidge Healing Abutment;Profile Diameter:select:1, Height (mm):select:2;7.0:1, 4:2;;AANHAF0704;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+4;AnyRidge Healing Abutment;Profile Diameter:select:1, Height (mm):select:2;7.0:1, 5:3;;AANHAF0705;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+4;AnyRidge Healing Abutment;Profile Diameter:select:1, Height (mm):select:2;7.0:1, 6:4;;AANHAF0706;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+4;AnyRidge Healing Abutment;Profile Diameter:select:1, Height (mm):select:2;7.0:1, 7:5;;AANHAF0707;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+4;AnyRidge Healing Abutment;Profile Diameter:select:1, Height (mm):select:2;8.0:1, 3:1;;AANHAF0803;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+4;AnyRidge Healing Abutment;Profile Diameter:select:1, Height (mm):select:2;8.0:1, 4:2;;AANHAF0804;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+4;AnyRidge Healing Abutment;Profile Diameter:select:1, Height (mm):select:2;8.0:1, 5:3;;AANHAF0805;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+4;AnyRidge Healing Abutment;Profile Diameter:select:1, Height (mm):select:2;8.0:1, 6:4;;AANHAF0806;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+4;AnyRidge Healing Abutment;Profile Diameter:select:1, Height (mm):select:2;8.0:1, 7:5;;AANHAF0807;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+4;AnyRidge Healing Abutment;Profile Diameter:select:1, Height (mm):select:2;9.0:1, 3:1;;AANHAF1003;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+4;AnyRidge Healing Abutment;Profile Diameter:select:1, Height (mm):select:2;9.0:1, 4:2;;AANHAF1004;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+4;AnyRidge Healing Abutment;Profile Diameter:select:1, Height (mm):select:2;9.0:1, 5:3;;AANHAF1005;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+4;AnyRidge Healing Abutment;Profile Diameter:select:1, Height (mm):select:2;9.0:1, 6:4;;AANHAF1006;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+4;AnyRidge Healing Abutment;Profile Diameter:select:1, Height (mm):select:2;9.0:1, 7:5;;AANHAF1007;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+5;AnyRidge Abutment Impression Coping Transfer Type;Profile Diameter:select:1, Height (mm):select:2, Type:select:3;4.0:1, 12:1, 2-Piece:1;;AANITH4012T;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+5;AnyRidge Abutment Impression Coping Transfer Type;Profile Diameter:select:1, Height (mm):select:2, Type:select:3;4.0:1, 16:1, 2-Piece:1;;AANITH4016T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+5;AnyRidge Abutment Impression Coping Transfer Type;Profile Diameter:select:1, Height (mm):select:2, Type:select:3;5.0:1, 12:1, 2-Piece:1;;AANITH5012T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+5;AnyRidge Abutment Impression Coping Transfer Type;Profile Diameter:select:1, Height (mm):select:2, Type:select:3;5.0:1, 16:1, 2-Piece:1;;AANITH5016T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+5;AnyRidge Abutment Impression Coping Transfer Type;Profile Diameter:select:1, Height (mm):select:2, Type:select:3;4.0:1, 12:1, 2-Piece Hand Driver 1.2 Hex:1;;AANITH4012HT;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+5;AnyRidge Abutment Impression Coping Transfer Type;Profile Diameter:select:1, Height (mm):select:2, Type:select:3;4.0:1, 16:1, 2-Piece Hand Driver 1.2 Hex:1;;AANITH4016HT;;;;5;;1000;1;0;0;;;;0;1;0;0;0
+5;AnyRidge Abutment Impression Coping Transfer Type;Profile Diameter:select:1, Height (mm):select:2, Type:select:3;5.0:1, 12:1, 2-Piece Hand Driver 1.2 Hex:1;;AANITH5012HT;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+5;AnyRidge Abutment Impression Coping Transfer Type;Profile Diameter:select:1, Height (mm):select:2, Type:select:3;5.0:1, 16:1, 2-Piece Hand Driver 1.2 Hex:1;;AANITH5016HT;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+6;AnyRidge Abutment Impression Coping Pick-up Type;Profile Diameter:select:1, Height (mm):select:2, Type:select:3;4.0:1, 12:1, 2-Piece:1;;AANIPH4012T;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+6;AnyRidge Abutment Impression Coping Pick-up Type;Profile Diameter:select:1, Height (mm):select:2, Type:select:3;4.0:1, 16:1, 2-Piece:1;;AANIPH4016T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+6;AnyRidge Abutment Impression Coping Pick-up Type;Profile Diameter:select:1, Height (mm):select:2, Type:select:3;5.0:1, 12:1, 2-Piece:1;;AANIPN4012T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+6;AnyRidge Abutment Impression Coping Pick-up Type;Profile Diameter:select:1, Height (mm):select:2, Type:select:3;5.0:1, 16:1, 2-Piece:1;;AANIPN4016T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+6;AnyRidge Abutment Impression Coping Pick-up Type;Profile Diameter:select:1, Height (mm):select:2, Type:select:3;4.0:1, 12:1, 2-Piece Hand Driver 1.2 Hex:1;;AANIPH5007T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+6;AnyRidge Abutment Impression Coping Pick-up Type;Profile Diameter:select:1, Height (mm):select:2, Type:select:3;4.0:1, 16:1, 2-Piece Hand Driver 1.2 Hex:1;;AANIPH5012T;;;;5;;1000;1;0;0;;;;0;1;0;0;0
+6;AnyRidge Abutment Impression Coping Pick-up Type;Profile Diameter:select:1, Height (mm):select:2, Type:select:3;5.0:1, 12:1, 2-Piece Hand Driver 1.2 Hex:1;;AANIPN5007T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+6;AnyRidge Abutment Impression Coping Pick-up Type;Profile Diameter:select:1, Height (mm):select:2, Type:select:3;5.0:1, 16:1, 2-Piece Hand Driver 1.2 Hex:1;;AANIPN5012T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+7;AnyRidge Abutment Lab Analog;Type:select:1, Color:select:2;Basic:1, Blue:1;;AANLAF4055;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+8;AnyRidge Abutment Temporary;Profile Diameter:select:1, Cuff Height (mm):select:2, Type:select:3;4.0:1, 2:1, Hex:1;;AANTMH4012T;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+8;AnyRidge Abutment Temporary;Profile Diameter:select:1, Cuff Height (mm):select:2, Type:select:3;4.0:1, 2:1, Non-Hex:2;;AANTMN4012T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+9;AnyRidge Abutment Fuse;Diameter Labiolingual:select:1, Diameter Mesiodistal:select:1, C.H (mm):select:1, P.H (mm):select:1, Type:select:1;5.5:1, 5.5:1, 3:1, 5.5:1, Straight:1;;AFAP5535P;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+9;AnyRidge Abutment Fuse;Diameter Labiolingual:select:1, Diameter Mesiodistal:select:1, C.H (mm):select:1, P.H (mm):select:1, Type:select:1;5.5:1, 4.5:1, 3:1, 7:1, 15 deg:1;;AFAA5315P;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+9;AnyRidge Abutment Fuse;Diameter Labiolingual:select:1, Diameter Mesiodistal:select:1, C.H (mm):select:1, P.H (mm):select:1, Type:select:1;5.5:1, 4.5:1, 3:1, 7:1, 25 deg:1;;AFAA5325P;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+9;AnyRidge Abutment Fuse;Diameter Labiolingual:select:1, Diameter Mesiodistal:select:1, C.H (mm):select:1, P.H (mm):select:1, Type:select:1;5.0:1, n/a, 11:1, 5.5:1, Milling:1;;AANTAH5012T;;;;0;;1000;1;0;0;;;;0;1;0;0;0

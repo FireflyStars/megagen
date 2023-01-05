@@ -1,0 +1,10 @@
+#Dossiers et fichiers à ignorer
+#https://git-scm.com/docs/gitignore
+
+/config.xml
+/config_fr.xml
+/backup/**/*
+!/backup/.htaccess
+!/backup/index.php
+*.log
+*.zip

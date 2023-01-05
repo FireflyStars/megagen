@@ -1,0 +1,1 @@
+*ERROR* 	2020/04/27 - 15:43:53: Unknown column 'FANIHX3507C' in 'where clause'<br /><br /><pre>SELECT * FROM ps_product WHERE reference = FANIHX3507C LIMIT 1</pre> at line 765 in file classes/db/Db.php

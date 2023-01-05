@@ -1,0 +1,101 @@
+Product ID*;Product Reference;Attribute (Name:Type:Position)*;Value (Value:Position)*;Supplier reference;Reference;EAN13;UPC;Wholesale price;Impact on price;Ecotax;Quantity;Minimal quantity;Impact on weight;Default (0 = No, 1 = Yes);Combination available date;Image position;Image URL;Delete existing images (0 = No, 1 = Yes);ID / Name of shop;Advanced Stock Managment;Depends on stock;Warehouse
+15;AnyRidge Abutment CCM;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1, Type:select:1;4.0:1, 1:1, 11:1, Hex:1;;AANCAH4012L;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+15;AnyRidge Abutment CCM;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1, Type:select:1;4.0:1, 1:1,11:1, Non-Hex:1;;AANCAN4012L;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+16;AnyRidge Abutment Extra EZ Post;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;4.5:1, 1:1, 7:1,;;AANEEH4517L;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+16;AnyRidge Abutment Extra EZ Post;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;5.5:1, 1:1, 7:1,;;AANEEH5517L;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+16;AnyRidge Abutment Extra EZ Post;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;6.5:1, 1:1, 7:1,;;AANEEH6517L;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+17;AnyRidge Abutment Lab Analog for use Extra EZ Post;Profile Diameter:select:1, Color:1;3.5:1, Magenta:1;;AANLAF35;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+17;AnyRidge Abutment Lab Analog for use Extra EZ Post;Profile Diameter:select:1, Color:1;4.0-5.5:1, Blue:1;;AANLAF4055;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+17;AnyRidge Abutment Lab Analog for use Extra EZ Post;Profile Diameter:select:1, Color:1;6.0-8.0:1, Yellow:1;;AANLAF6080;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;4.0:1, 2:1, 4:1;;AANSAL4024;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;4.0:1, 3:2, 4:1;;AANSAL4034;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;4.0:1, 4:3, 4:1;;AANSAL4044;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;4.0:1, 5:4, 4:1;;AANSAL4054;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;4.0:1, 2:1, 5.5:1;;AANSAL4025;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;4.0:1, 3:2, 5.5:1;;AANSAL4035;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;4.0:1, 4:3, 5.5:1;;AANSAL4045;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;4.0:1, 5:4, 5.5:1;;AANSAL4055;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;4.0:1, 2:1, 7:1;;AANSAL4027;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;4.0:1, 3:2, 7:1;;AANSAL4037;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;4.0:1, 4:3, 7:1;;AANSAL4047;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;4.0:1, 5:4, 7:1;;AANSAL4057;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;5.0:1, 2:1, 4:1;;AANSAL5024;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;5.0:1, 3:2, 4:1;;AANSAL5034;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;5.0:1, 4:3, 4:1;;AANSAL5044;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;5.0:1, 5:4, 4:1;;AANSAL5054;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;5.0:1, 2:1, 5.5:1;;AANSAL5025;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;5.0:1, 3:2, 5.5:1;;AANSAL5035;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;5.0:1, 4:3, 5.5:1;;AANSAL5045;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;5.0:1, 5:4, 5.5:1;;AANSAL5055;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;5.0:1, 2:1, 7:1;;AANSAL5027;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;5.0:1, 3:2, 7:1;;AANSAL5037;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;5.0:1, 4:3, 7:1;;AANSAL5047;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;5.0:1, 5:4, 7:1;;AANSAL5057;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;6.0:1, 2:1, 4:1;;AANSAL6024;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;6.0:1, 3:2, 4:1;;AANSAL6034;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;6.0:1, 4:3, 4:1;;AANSAL6044;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;6.0:1, 5:4, 4:1;;AANSAL6054;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;6.0:1, 2:1, 5.5:1;;AANSAL6025;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;6.0:1, 3:2, 5.5:1;;AANSAL6035;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;6.0:1, 4:3, 5.5:1;;AANSAL6045;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;6.0:1, 5:4, 5.5:1;;AANSAL6055;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;6.0:1, 2:1, 7:1;;AANSAL6027;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;6.0:1, 3:2, 7:1;;AANSAL6037;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;6.0:1, 4:3, 7:1;;AANSAL6047;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;6.0:1, 5:4, 7:1;;AANSAL6057;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;7.0:1, 2:1, 4:1;;AANSAL7024;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;7.0:1, 3:2, 4:1;;AANSAL7034;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;7.0:1, 4:3, 4:1;;AANSAL7044;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;7.0:1, 5:4, 4:1;;AANSAL7054;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;7.0:1, 2:1, 5.5:1;;AANSAL7025;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;7.0:1, 3:2, 5.5:1;;AANSAL7035;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;7.0:1, 4:3, 5.5:1;;AANSAL7045;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;7.0:1, 5:4, 5.5:1;;AANSAL7055;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;7.0:1, 2:1, 7:1;;AANSAL7027;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;7.0:1, 3:2, 7:1;;AANSAL7037;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;7.0:1, 4:3, 7:1;;AANSAL7047;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+19;AnyRidge Abutment Solid Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1, Post Height (mm):select:1;7.0:1, 5:4, 7:1;;AANSAL7057;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+20;AnyRidge Abutment Snap Impression Coping;Profile Diameter:select:1;4.0:1;;AANSIF440;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+20;AnyRidge Abutment Snap Impression Coping;Profile Diameter:select:1;4.0:1;;AANSIF455;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+20;AnyRidge Abutment Snap Impression Coping;Profile Diameter:select:1;4.0:1;;AANSIF470;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+20;AnyRidge Abutment Snap Impression Coping;Profile Diameter:select:1;5.0:1;;AANSIF540;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+20;AnyRidge Abutment Snap Impression Coping;Profile Diameter:select:1;5.0:1;;AANSIF555;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+20;AnyRidge Abutment Snap Impression Coping;Profile Diameter:select:1;5.0:1;;AANSIF570;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+20;AnyRidge Abutment Snap Impression Coping;Profile Diameter:select:1;6.0:1;;AANSIF640;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+20;AnyRidge Abutment Snap Impression Coping;Profile Diameter:select:1;6.0:1;;AANSIF655;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+20;AnyRidge Abutment Snap Impression Coping;Profile Diameter:select:1;6.0:1;;AANSIF670;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+20;AnyRidge Abutment Snap Impression Coping;Profile Diameter:select:1;7.0:1;;AANSIF740;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+20;AnyRidge Abutment Snap Impression Coping;Profile Diameter:select:1;7.0:1;;AANSIF755;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+20;AnyRidge Abutment Snap Impression Coping;Profile Diameter:select:1;7.0:1;;AANSIF770;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+21;AnyRidge Abutment Comfort Cap;Profile Diameter:select:1, Post Height (mm):select:1;4.0:1, 4:1;;AANCCF440;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+21;AnyRidge Abutment Comfort Cap;Profile Diameter:select:1, Post Height (mm):select:1;4.0:1, 5.5:2;;AANCCF455;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+21;AnyRidge Abutment Comfort Cap;Profile Diameter:select:1, Post Height (mm):select:1;4.0:1, 7:3;;AANCCF470;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+21;AnyRidge Abutment Comfort Cap;Profile Diameter:select:1, Post Height (mm):select:1;5.0:1, 4:1;;AANCCF540;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+21;AnyRidge Abutment Comfort Cap;Profile Diameter:select:1, Post Height (mm):select:1;5.0:1, 5.5:2;;AANCCF555;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+21;AnyRidge Abutment Comfort Cap;Profile Diameter:select:1, Post Height (mm):select:1;5.0:1, 7:3;;AANCCF570;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+21;AnyRidge Abutment Comfort Cap;Profile Diameter:select:1, Post Height (mm):select:1;6.0:1, 4:1;;AANCCF640;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+21;AnyRidge Abutment Comfort Cap;Profile Diameter:select:1, Post Height (mm):select:1;6.0:1, 5.5:2;;AANCCF655;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+21;AnyRidge Abutment Comfort Cap;Profile Diameter:select:1, Post Height (mm):select:1;6.0:1, 7:3;;AANCCF670;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+21;AnyRidge Abutment Comfort Cap;Profile Diameter:select:1, Post Height (mm):select:1;7.0:1, 4:1;;AANCCF740;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+21;AnyRidge Abutment Comfort Cap;Profile Diameter:select:1, Post Height (mm):select:1;7.0:1, 5.5:2;;AANCCF755;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+21;AnyRidge Abutment Comfort Cap;Profile Diameter:select:1, Post Height (mm):select:1;7.0:1, 7:3;;AANCCF770;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+22;AnyRidge Abutment Lab Analog;Profile Diameter:select:1, Height (mm):select:1;4.0:1, 4:1;;AANSLF440;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+22;AnyRidge Abutment Lab Analog;Profile Diameter:select:1, Height (mm):select:1;4.0:1, 5.5:2;;AANSLF455;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+22;AnyRidge Abutment Lab Analog;Profile Diameter:select:1, Height (mm):select:1;4.0:1, 7:3;;AANSLF470;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+22;AnyRidge Abutment Lab Analog;Profile Diameter:select:1, Height (mm):select:1;5.0:1, 4:1;;AANSLF540;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+22;AnyRidge Abutment Lab Analog;Profile Diameter:select:1, Height (mm):select:1;5.0:1, 5.5:2;;AANSLF555;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+22;AnyRidge Abutment Lab Analog;Profile Diameter:select:1, Height (mm):select:1;5.0:1, 7:3;;AANSLF570;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+22;AnyRidge Abutment Lab Analog;Profile Diameter:select:1, Height (mm):select:1;6.0:1, 4:1;;AANSLF640;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+22;AnyRidge Abutment Lab Analog;Profile Diameter:select:1, Height (mm):select:1;6.0:1, 5.5:2;;AANSLF655;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+22;AnyRidge Abutment Lab Analog;Profile Diameter:select:1, Height (mm):select:1;6.0:1, 7:3;;AANSLF670;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+22;AnyRidge Abutment Lab Analog;Profile Diameter:select:1, Height (mm):select:1;7.0:1, 4:1;;AANSLF740;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+22;AnyRidge Abutment Lab Analog;Profile Diameter:select:1, Height (mm):select:1;7.0:1, 5.5:2;;AANSLF755;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+22;AnyRidge Abutment Lab Analog;Profile Diameter:select:1, Height (mm):select:1;7.0:1, 7:3;;AANSLF770;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+23;AnyRidge Abutment Burn-out Cylinder;Profile Diameter:select:1, Type:select:1;4.0:1, Multiple:1;;AANBCB470;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+23;AnyRidge Abutment Burn-out Cylinder;Profile Diameter:select:1, Type:select:1;5.0:2, Multiple:1;;AANBCB570;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+23;AnyRidge Abutment Burn-out Cylinder;Profile Diameter:select:1, Type:select:1;6.0:3, Multiple:1;;AANBCB670;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+23;AnyRidge Abutment Burn-out Cylinder;Profile Diameter:select:1, Type:select:1;7.0:4, Multiple:1;;AANBCB770;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+23;AnyRidge Abutment Burn-out Cylinder;Profile Diameter:select:1, Type:select:1;4.0:1, Single:1;;AANBCS470;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+23;AnyRidge Abutment Burn-out Cylinder;Profile Diameter:select:1, Type:select:1;5.0:2, Single:1;;AANBCS570;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+23;AnyRidge Abutment Burn-out Cylinder;Profile Diameter:select:1, Type:select:1;6.0:3, Single:1;;AANBCS670;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+23;AnyRidge Abutment Burn-out Cylinder;Profile Diameter:select:1, Type:select:1;7.0:4, Single:1;;AANBCS770;;;;0;;1000;1;0;0;;;;0;1;0;0;0

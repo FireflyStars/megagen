@@ -1,0 +1,82 @@
+Product ID*;Product Reference;Attribute (Name:Type:Position)*;Value (Value:Position)*;Supplier reference;Reference;EAN13;UPC;Wholesale price;Impact on price;Ecotax;Quantity;Minimal quantity;Impact on weight;Default (0 = No, 1 = Yes);Combination available date;Image position;Image URL;Delete existing images (0 = No, 1 = Yes);ID / Name of shop;Advanced Stock Managment;Depends on stock;Warehouse
+24;AnyRidge Abutment Octa Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1;4.0:1, 1:1;;AANOAF4010;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+24;AnyRidge Abutment Octa Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1;4.0:1, 2:2;;AANOAF4020;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+24;AnyRidge Abutment Octa Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1;4.0:1, 3:2;;AANOAF4030;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+24;AnyRidge Abutment Octa Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1;4.0:1, 4:2;;AANOAF4040;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+24;AnyRidge Abutment Octa Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1;4.0:1, 5:2;;AANOAF4050;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+24;AnyRidge Abutment Octa Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1;5.0:1, 1:1;;AANOAF0010;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+24;AnyRidge Abutment Octa Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1;5.0:1, 2:2;;AANOAF0020;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+24;AnyRidge Abutment Octa Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1;5.0:1, 3:2;;AANOAF0030;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+24;AnyRidge Abutment Octa Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1;5.0:1, 4:2;;AANOAF0040;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+24;AnyRidge Abutment Octa Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1;5.0:1, 5:2;;AANOAF0050;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+24;AnyRidge Abutment Octa Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1;6.0:1, 1:1;;AANOAF6010;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+24;AnyRidge Abutment Octa Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1;6.0:1, 2:2;;AANOAF6020;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+24;AnyRidge Abutment Octa Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1;6.0:1, 3:2;;AANOAF6030;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+24;AnyRidge Abutment Octa Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1;6.0:1, 4:2;;AANOAF6040;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+24;AnyRidge Abutment Octa Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1;6.0:1, 5:2;;AANOAF6050;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+25;AnyRidge Abutment Healing Cap and Octa Cylinder Cap;Profile Diameter:select:1;4.0:1;;AANOHC4000T;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+25;AnyRidge Abutment Healing Cap and Octa Cylinder Cap;Profile Diameter:select:1;5.0:1;;IHC400T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+25;AnyRidge Abutment Healing Cap and Octa Cylinder Cap;Profile Diameter:select:1;6.0:1;;AANOHC6000T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+26;AnyRidge Abutment Octa Impression Coping;Profile Diameter:select:1, Height (mm):select:1, Type:select:1;4.0:1, 7.5:1, Octa:1;;AAOITO4010T;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+26;AnyRidge Abutment Octa Impression Coping;Profile Diameter:select:1, Height (mm):select:1, Type:select:1;4.0:1, 7.5:1, Non-Octa:2;;AAOITN4010T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+26;AnyRidge Abutment Octa Impression Coping;Profile Diameter:select:1, Height (mm):select:1, Type:select:1;4.0:1, 9.5:2, Octa:1;;AAOITO4012T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+26;AnyRidge Abutment Octa Impression Coping;Profile Diameter:select:1, Height (mm):select:1, Type:select:1;4.0:1, 9.5:2, Non-Octa:2;;AAOITN4012T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+26;AnyRidge Abutment Octa Impression Coping;Profile Diameter:select:1, Height (mm):select:1, Type:select:1;5.0:1, 7.5:1, Octa:1;;AAOITO5010T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+26;AnyRidge Abutment Octa Impression Coping;Profile Diameter:select:1, Height (mm):select:1, Type:select:1;5.0:1, 7.5:1, Non-Octa:2;;AAOITN5010T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+26;AnyRidge Abutment Octa Impression Coping;Profile Diameter:select:1, Height (mm):select:1, Type:select:1;5.0:1, 9.5:2, Octa:1;;AAOITO5012T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+26;AnyRidge Abutment Octa Impression Coping;Profile Diameter:select:1, Height (mm):select:1, Type:select:1;5.0:1, 9.5:2, Non-Octa:2;;AAOITN5012T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+26;AnyRidge Abutment Octa Impression Coping;Profile Diameter:select:1, Height (mm):select:1, Type:select:1;6.0:1, 7.5:1, Octa:1;;AAOITO6010T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+26;AnyRidge Abutment Octa Impression Coping;Profile Diameter:select:1, Height (mm):select:1, Type:select:1;6.0:1, 7.5:1, Non-Octa:2;;AAOITN6010T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+26;AnyRidge Abutment Octa Impression Coping;Profile Diameter:select:1, Height (mm):select:1, Type:select:1;6.0:1, 9.5:2, Octa:1;;AAOITO6012T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+26;AnyRidge Abutment Octa Impression Coping;Profile Diameter:select:1, Height (mm):select:1, Type:select:1;6.0:1, 9.5:2, Non-Octa:2;;AAOITN6012T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+27;AnyRidge Abutment Impression Coping Pick-up Type;Profile Diameter:select:1, Height (mm):select:1, Type:select:1;4.0:1, 10:1, Octa:1;;AAOIPO4010T;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+27;AnyRidge Abutment Impression Coping Pick-up Type;Profile Diameter:select:1, Height (mm):select:1, Type:select:1;4.0:1, 10:1, Non-Octa:2;;AAOIPN4010T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+27;AnyRidge Abutment Impression Coping Pick-up Type;Profile Diameter:select:1, Height (mm):select:1, Type:select:1;4.0:1, 12:2, Octa:1;;AAOIPO4012T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+27;AnyRidge Abutment Impression Coping Pick-up Type;Profile Diameter:select:1, Height (mm):select:1, Type:select:1;4.0:1, 12:2, Non-Octa:2;;AAOIPN4012T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+27;AnyRidge Abutment Impression Coping Pick-up Type;Profile Diameter:select:1, Height (mm):select:1, Type:select:1;5.0:1, 10:1, Octa:1;;AAOIPO5010T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+27;AnyRidge Abutment Impression Coping Pick-up Type;Profile Diameter:select:1, Height (mm):select:1, Type:select:1;5.0:1, 10:1, Non-Octa:2;;AAOIPN5010T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+27;AnyRidge Abutment Impression Coping Pick-up Type;Profile Diameter:select:1, Height (mm):select:1, Type:select:1;5.0:1, 12:2, Octa:1;;AAOIPO5012T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+27;AnyRidge Abutment Impression Coping Pick-up Type;Profile Diameter:select:1, Height (mm):select:1, Type:select:1;5.0:1, 12:2, Non-Octa:2;;AAOIPN5012T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+27;AnyRidge Abutment Impression Coping Pick-up Type;Profile Diameter:select:1, Height (mm):select:1, Type:select:1;6.0:1, 10:1, Octa:1;;AAOIPO6010T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+27;AnyRidge Abutment Impression Coping Pick-up Type;Profile Diameter:select:1, Height (mm):select:1, Type:select:1;6.0:1, 10:1, Non-Octa:2;;AAOIPN6010T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+27;AnyRidge Abutment Impression Coping Pick-up Type;Profile Diameter:select:1, Height (mm):select:1, Type:select:1;6.0:1, 12:2, Octa:1;;AAOIPO6012T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+27;AnyRidge Abutment Impression Coping Pick-up Type;Profile Diameter:select:1, Height (mm):select:1, Type:select:1;6.0:1, 12:2, Non-Octa:2;;AAOIPN6012T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+28;AnyRidge Abutment Lab Analog;Profile Diameter:select:1;3.8:1;;AANOLA4000;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+28;AnyRidge Abutment Lab Analog;Profile Diameter:select:1;4.8:1;;IOA300;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+28;AnyRidge Abutment Lab Analog;Profile Diameter:select:1;5.8:1;;AANOLA6000;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+29;AnyRidge Abutment Temporary Cylinder;Profile Diameter:select:1, Type:select:1;4.0:1, Octa:1;;AANOTCO4010T;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+29;AnyRidge Abutment Temporary Cylinder;Profile Diameter:select:1, Type:select:1;4.0:1, Non-octa:2;;AANOTCN4010T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+29;AnyRidge Abutment Temporary Cylinder;Profile Diameter:select:1, Type:select:1;5.0:1, Octa:1;;AANOTCO5010T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+29;AnyRidge Abutment Temporary Cylinder;Profile Diameter:select:1, Type:select:1;5.0:1, Non-octa:2;;AANOTCN5010T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+29;AnyRidge Abutment Temporary Cylinder;Profile Diameter:select:1, Type:select:1;6.0:1, Octa:1;;AANOTCO6010T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+29;AnyRidge Abutment Temporary Cylinder;Profile Diameter:select:1, Type:select:1;6.0:1, Non-octa:2;;AANOTCN6010T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+30;AnyRidge Abutment EZ Post Cylinder;Profile Diameter:select:1, Post Height (mm):select:1, Type:select:1;4.0:1, 5.5:1, Octa:1;;AAOECO4005T;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+30;AnyRidge Abutment EZ Post Cylinder;Profile Diameter:select:1, Post Height (mm):select:1, Type:select:1;4.0:1, 7.0:2, Octa:1;;AAOECO4007T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+30;AnyRidge Abutment EZ Post Cylinder;Profile Diameter:select:1, Post Height (mm):select:1, Type:select:1;4.0:1, 5.5:3, Non-Octa:1;;AAOECN4005T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+30;AnyRidge Abutment EZ Post Cylinder;Profile Diameter:select:1, Post Height (mm):select:1, Type:select:1;4.0:1, 7.0:4, Non-Octa:1;;AAOECN4007T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+30;AnyRidge Abutment EZ Post Cylinder;Profile Diameter:select:1, Post Height (mm):select:1, Type:select:1;5.0:1, 5.5:1, Octa:1;;AAOECO5005T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+30;AnyRidge Abutment EZ Post Cylinder;Profile Diameter:select:1, Post Height (mm):select:1, Type:select:1;5.0:1, 7.0:2, Octa:1;;AAOECO5007T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+30;AnyRidge Abutment EZ Post Cylinder;Profile Diameter:select:1, Post Height (mm):select:1, Type:select:1;5.0:1, 5.5:3, Non-Octa:1;;AAOECN5005T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+30;AnyRidge Abutment EZ Post Cylinder;Profile Diameter:select:1, Post Height (mm):select:1, Type:select:1;5.0:1, 7.0:4, Non-Octa:1;;AAOECN5007T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+30;AnyRidge Abutment EZ Post Cylinder;Profile Diameter:select:1, Post Height (mm):select:1, Type:select:1;6.0:1, 5.5:1, Octa:1;;AAOECO6005T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+30;AnyRidge Abutment EZ Post Cylinder;Profile Diameter:select:1, Post Height (mm):select:1, Type:select:1;6.0:1, 7.0:2, Octa:1;;AAOECO6007T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+30;AnyRidge Abutment EZ Post Cylinder;Profile Diameter:select:1, Post Height (mm):select:1, Type:select:1;6.0:1, 5.5:3, Non-Octa:1;;AAOECN6005T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+30;AnyRidge Abutment EZ Post Cylinder;Profile Diameter:select:1, Post Height (mm):select:1, Type:select:1;6.0:1, 7.0:4, Non-Octa:1;;AAOECN6007T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+31;AnyRidge Abutment Gold Cylinder;Profile Diameter:select:1, Type:select:1;4.0:1, Octa:1;;AANGCO4000T;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+31;AnyRidge Abutment Gold Cylinder;Profile Diameter:select:1, Type:select:1;4.0:1, Non-Octa:2;;AANGCN4000T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+31;AnyRidge Abutment Gold Cylinder;Profile Diameter:select:1, Type:select:1;5.0:1, Octa:1;;IOGO100T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+31;AnyRidge Abutment Gold Cylinder;Profile Diameter:select:1, Type:select:1;5.0:1, Non-Octa:2;;IOGN100T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+31;AnyRidge Abutment Gold Cylinder;Profile Diameter:select:1, Type:select:1;6.0:1, Octa:1;;AANGCO6000T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+31;AnyRidge Abutment Gold Cylinder;Profile Diameter:select:1, Type:select:1;6.0:1, Non-Octa:2;;AANGCN6000T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+32;AnyRidge Abutment CCM Cylinder;Profile Diameter:select:1, Type:select:1;4.0:1, Octa:1;;AANCCO4000T;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+32;AnyRidge Abutment CCM Cylinder;Profile Diameter:select:1, Type:select:1;4.0:1, Non-Octa:2;;AANCCN4000T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+32;AnyRidge Abutment CCM Cylinder;Profile Diameter:select:1, Type:select:1;5.0:1, Octa:1;;AANCCO5000T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+32;AnyRidge Abutment CCM Cylinder;Profile Diameter:select:1, Type:select:1;5.0:1, Non-Octa:2;;AANCCN5000T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+32;AnyRidge Abutment CCM Cylinder;Profile Diameter:select:1, Type:select:1;6.0:1, Octa:1;;AANCCO6000T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+32;AnyRidge Abutment CCM Cylinder;Profile Diameter:select:1, Type:select:1;6.0:1, Non-Octa:2;;AANCCN6000T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+33;AnyRidge Abutment Plastic Cylinder;Profile Diameter:select:1, Type:select:1;4.0:1, Octa:1;;AAOTCO4010T;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+33;AnyRidge Abutment Plastic Cylinder;Profile Diameter:select:1, Type:select:1;4.0:1, Non-Octa:2;;AAOTCN4010T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+33;AnyRidge Abutment Plastic Cylinder;Profile Diameter:select:1, Type:select:1;5.0:1, Octa:1;;IOPH100T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+33;AnyRidge Abutment Plastic Cylinder;Profile Diameter:select:1, Type:select:1;5.0:1, Non-Octa:2;;IOPN100T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+33;AnyRidge Abutment Plastic Cylinder;Profile Diameter:select:1, Type:select:1;6.0:1, Octa:1;;AAOTCO6010T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+33;AnyRidge Abutment Plastic Cylinder;Profile Diameter:select:1, Type:select:1;6.0:1, Non-Octa:2;;AAOTCN6010T;;;;0;;1000;1;0;0;;;;0;1;0;0;0

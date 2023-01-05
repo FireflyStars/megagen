@@ -1,0 +1,194 @@
+Product ID*;Product Reference;Attribute (Name:Type:Position)*;Value (Value:Position)*;Supplier reference;Reference;EAN13;UPC;Wholesale price;Impact on price;Ecotax;Quantity;Minimal quantity;Impact on weight;Default (0 = No, 1 = Yes);Combination available date;Image position;Image URL;Delete existing images (0 = No, 1 = Yes);ID / Name of shop;Advanced Stock Managment;Depends on stock;Warehouse
+34;AnyRidge Abutment Multi-unit Angled Abutment 17 degrees;Cuff Height (mm):select:1, Type:select:1;1.0:1, Hex:1;;AANMUH50117L;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+34;AnyRidge Abutment Multi-unit Angled Abutment 17 degrees;Cuff Height (mm):select:1, Type:select:1;2.0:2, Hex:1;;AANMUH50217L;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+34;AnyRidge Abutment Multi-unit Angled Abutment 17 degrees;Cuff Height (mm):select:1, Type:select:1;3.0:3, Hex:1;;AANMUH50317L;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+34;AnyRidge Abutment Multi-unit Angled Abutment 17 degrees;Cuff Height (mm):select:1, Type:select:1;4.0:4, Hex:1;;AANMUH50417L;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+34;AnyRidge Abutment Multi-unit Angled Abutment 17 degrees;Cuff Height (mm):select:1, Type:select:1;1.0:5, Non-Hex:1;;AANMUN50117L;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+34;AnyRidge Abutment Multi-unit Angled Abutment 17 degrees;Cuff Height (mm):select:1, Type:select:1;2.0:6, Non-Hex:1;;AANMUN50217L;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+34;AnyRidge Abutment Multi-unit Angled Abutment 17 degrees;Cuff Height (mm):select:1, Type:select:1;3.0:7, Non-Hex:1;;AANMUN50317L;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+34;AnyRidge Abutment Multi-unit Angled Abutment 17 degrees;Cuff Height (mm):select:1, Type:select:1;4.0:7, Non-Hex:1;;AANMUN50417L;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+35;AnyRidge Abutment Multi-unit Angled Abutment 29 degrees;Cuff Height (mm):select:1, Type:select:1;1.0:1, Hex:1;;AANMUH50129L;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+35;AnyRidge Abutment Multi-unit Angled Abutment 29 degrees;Cuff Height (mm):select:1, Type:select:1;2.0:2, Hex:1;;AANMUH50229L;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+35;AnyRidge Abutment Multi-unit Angled Abutment 29 degrees;Cuff Height (mm):select:1, Type:select:1;3.0:3, Hex:1;;AANMUH50329L;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+35;AnyRidge Abutment Multi-unit Angled Abutment 29 degrees;Cuff Height (mm):select:1, Type:select:1;4.0:4, Hex:1;;AANMUH50429L;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+35;AnyRidge Abutment Multi-unit Angled Abutment 29 degrees;Cuff Height (mm):select:1, Type:select:1;1.0:5, Non-Hex:1;;AANMUN50129L;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+35;AnyRidge Abutment Multi-unit Angled Abutment 29 degrees;Cuff Height (mm):select:1, Type:select:1;2.0:6, Non-Hex:1;;AANMUN50229L;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+35;AnyRidge Abutment Multi-unit Angled Abutment 29 degrees;Cuff Height (mm):select:1, Type:select:1;3.0:7, Non-Hex:1;;AANMUN50329L;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+35;AnyRidge Abutment Multi-unit Angled Abutment 29 degrees;Cuff Height (mm):select:1, Type:select:1;4.0:7, Non-Hex:1;;AANMUN50429L;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+36;AnyRidge Abutment Multi-unit Abutment Straight;Cuff Height (mm):select:1, Type:select:1;2.0:1, Hex:1;;AANMUH5020T;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+36;AnyRidge Abutment Multi-unit Abutment Straight;Cuff Height (mm):select:1, Type:select:1;3.0:2, Hex:1;;AANMUH5030T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+36;AnyRidge Abutment Multi-unit Abutment Straight;Cuff Height (mm):select:1, Type:select:1;4.0:3, Hex:1;;AANMUH5040T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+36;AnyRidge Abutment Multi-unit Abutment Straight;Cuff Height (mm):select:1, Type:select:1;5.0:4, Hex:1;;AANMUH5050T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+36;AnyRidge Abutment Multi-unit Abutment Straight;Cuff Height (mm):select:1, Type:select:1;2.0:5, Non-Hex:1;;AANMUN5020T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+36;AnyRidge Abutment Multi-unit Abutment Straight;Cuff Height (mm):select:1, Type:select:1;3.0:6, Non-Hex:1;;AANMUN5030T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+36;AnyRidge Abutment Multi-unit Abutment Straight;Cuff Height (mm):select:1, Type:select:1;4.0:7, Non-Hex:1;;AANMUN5040T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+36;AnyRidge Abutment Multi-unit Abutment Straight;Cuff Height (mm):select:1, Type:select:1;5.0:7, Non-Hex:1;;AANMUN5050T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+37;AnyRidge Abutment Healing Cap;Profile Diameter:select:1;5.0:1;;REC600;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+38;AnyRidge Abutment Impression Coping Transfer Type;Profile Diameter:select:1;4.8:1;;RITE480;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+39;AnyRidge Abutment Impression Coping Pick-up Type;Height (mm):select:1, Type:select:1;9.4:1, Hex:1;;RIEH480T;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+39;AnyRidge Abutment Impression Coping Pick-up Type;Height (mm):select:1, Type:select:1;9.4:1, Non-Hex:2;;RIEN480T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+40;AnyRidge Abutment Lab Analog;Profile Diameter:select:1;4.8:1;;RELA300;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+41;AnyRidge Abutment Temporary Cylinder;Profile Diameter:select:1, Type:select:1;4.8:1, Hex:1;;ETH100T;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+41;AnyRidge Abutment Temporary Cylinder;Profile Diameter:select:1, Type:select:1;4.8:1, Non-Hex:2;;ETN100T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+42;AnyRidge Abutment EZ Post Cylinder;Profile Diameter:select:1, Type:select:1;5.0:1, Hex:1;;RCA900T;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+42;AnyRidge Abutment EZ Post Cylinder;Profile Diameter:select:1, Type:select:1;5.0:1, Non-Hex:2;;RCA800T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+43;AnyRidge Abutment Gold Cylinder;Profile Diameter:select:1, Sleeve Color:select:1;5.0:1, Red:1;;REGC200T;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+43;AnyRidge Abutment Gold Cylinder;Profile Diameter:select:1, Sleeve Color:select:1;5.0:1, White:2;;REGC100T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+44;AnyRidge Abutment CCM Cylinder;Profile Diameter:select:1, Sleeve Color:select:1;4.8:1, Pink:1;;RCA5013HT;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+44;AnyRidge Abutment CCM Cylinder;Profile Diameter:select:1, Sleeve Color:select:1;4.8:1, Yellow:2;;RCA5013NT;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+45;AnyRidge Abutment Plastic Cylinder;Profile Diameter:select:1, Sleeve Color:select:1;5.2:1, Red:1;;RPEH100T;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+45;AnyRidge Abutment Plastic Cylinder;Profile Diameter:select:1, Sleeve Color:select:1;5.2:1, White:2;;RPEN100T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+46;AnyRidge Abutment Flat Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1;3.5:1, 1:1;;AANFAL3510;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+46;AnyRidge Abutment Flat Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1;3.5:1, 2:1;;AANFAL3520;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+46;AnyRidge Abutment Flat Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1;3.5:1, 3:1;;AANFAL3530;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+46;AnyRidge Abutment Flat Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1;3.5:1, 4:1;;AANFAL3540;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+46;AnyRidge Abutment Flat Abutment;Profile Diameter:select:1, Cuff Height (mm):select:1;3.5:1, 5:1;;AANFAL3550;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+47;AnyRidge Abutment Flat Cover Screw;Profile Diameter:select:1;3.5:1;;FCS3510;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+48;AnyRidge Abutment Flat Healing Abutment;Height (mm):select:1;2:1;;FHA402;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+48;AnyRidge Abutment Flat Healing Abutment;Height (mm):select:1;3:1;;FHA403;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+48;AnyRidge Abutment Flat Healing Abutment;Height (mm):select:1;4:1;;FHA404;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+49;AnyRidge Abutment Flat Impression Coping Transfer Type;Profile Diameter:select:1, Height (mm):select:1;3.5:1, 9.5:1;;FIT4012T;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+50;AnyRidge Abutment Flat Impression Coping Pick-up Type;Profile Diameter:select:1, Height (mm):select:1;3.5:1, 12:1;;FIP4012T;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+51;AnyRidge Abutment Flat Lab Analog;Profile Diameter:select:1, Height (mm):select:1;3.5:1, 12:1;;FLA3512;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+52;AnyRidge Abutment Temporary Cylinder;Profile Diameter:select:1;4.0:1;;FTC4012T;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+53;AnyRidge Abutment Flat EZ Post Cylinder;Height (mm):select:1;5.5:1;;FEC4005T;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+53;AnyRidge Abutment Flat EZ Post Cylinder;Height (mm):select:1;7:1;;FEC4007T;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+54;AnyRidge Abutment Flat Gold Cylinder;Profile Diameter:select:1;3.8:1;;FGC4012T;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+55;AnyRidge Abutment Flat CCM Cylinder;Profile Diameter:select:1;3.8:1;;FCC4012T;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+56;AnyRidge Abutment Flat Plastic Cylinder;Profile Diameter:select:1;4.0:1;;FPC4012T;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+57;AnyRidge Abutment Meg-Rhein Package;Cuff Height (mm):select:1;0:1;;ADR00P;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+57;AnyRidge Abutment Meg-Rhein Package;Cuff Height (mm):select:1;1:1;;ADR01P;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+57;AnyRidge Abutment Meg-Rhein Package;Cuff Height (mm):select:1;2:1;;ADR02P;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+57;AnyRidge Abutment Meg-Rhein Package;Cuff Height (mm):select:1;3:1;;ADR03P;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+57;AnyRidge Abutment Meg-Rhein Package;Cuff Height (mm):select:1;4:1;;ADR04P;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+57;AnyRidge Abutment Meg-Rhein Package;Cuff Height (mm):select:1;5:1;;ADR05P;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+57;AnyRidge Abutment Meg-Rhein Package;Cuff Height (mm):select:1;6:1;;ADR06P;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+58;AnyRidge Abutment Meg-Rhein Retentive Caps;Color:select:1, Number in pack:select:1;White:1, 4:1;;140CET;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+58;AnyRidge Abutment Meg-Rhein Retentive Caps;Color:select:1, Number in pack:select:1;Violet:2, 4:1;;140CEV;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+58;AnyRidge Abutment Meg-Rhein Retentive Caps;Color:select:1, Number in pack:select:1;Stainless Steel Housing:3, 2:1;;141CAE;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+68;AnyRidge Surgical Lance Drill;Diameter:select:1, Type:select:1;2.0:1, Long:1;;MGD100L;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+69;AnyRidge Surgical Marking Drill;Diameter:select:1, Length (mm):select:1;2.0:1, 18;;TANTDF2018;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+69;AnyRidge Surgical Marking Drill;Diameter:select:1, Length (mm):select:1;2.5:2, 18;;SD2518S;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+69;AnyRidge Surgical Marking Drill;Diameter:select:1, Length (mm):select:1;2.8:3, 18;;SD2818S;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+69;AnyRidge Surgical Marking Drill;Diameter:select:1, Length (mm):select:1;3.3:4, 18;;TANSDF3318;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+69;AnyRidge Surgical Marking Drill;Diameter:select:1, Length (mm):select:1;3.8:5, 18;;TANSDF3818;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+69;AnyRidge Surgical Marking Drill;Diameter:select:1, Length (mm):select:1;4.3:6, 18;;TANSDF4318;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+69;AnyRidge Surgical Marking Drill;Diameter:select:1, Length (mm):select:1;4.8:7, 15;;TANSDF4815;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+69;AnyRidge Surgical Marking Drill;Diameter:select:1, Length (mm):select:1;5.4:8, 15;;TANSDF5415;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+69;AnyRidge Surgical Marking Drill;Diameter:select:1, Length (mm):select:1;5.9:9, 15;;TANSDF5915;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+70;AnyRidge Surgical Stopper Drill;Diameter:select:1, Length (mm):select:1;2.0:1, 7:1;;TANTDF2007;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+70;AnyRidge Surgical Stopper Drill;Diameter:select:1, Length (mm):select:1;2.0:1, 8.5:2;;TANTDF2008;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+70;AnyRidge Surgical Stopper Drill;Diameter:select:1, Length (mm):select:1;2.0:1, 10:3;;TANTDF2010;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+70;AnyRidge Surgical Stopper Drill;Diameter:select:1, Length (mm):select:1;2.0:1, 11.5:4;;TANTDF2011;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+70;AnyRidge Surgical Stopper Drill;Diameter:select:1, Length (mm):select:1;2.8:1, 7:1;;SD2807M;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+70;AnyRidge Surgical Stopper Drill;Diameter:select:1, Length (mm):select:1;2.8:1, 8.5:2;;SD2808M;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+70;AnyRidge Surgical Stopper Drill;Diameter:select:1, Length (mm):select:1;2.8:1, 10:3;;SD2810M;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+70;AnyRidge Surgical Stopper Drill;Diameter:select:1, Length (mm):select:1;2.8:1, 11.5:4;;SD2811M;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+70;AnyRidge Surgical Stopper Drill;Diameter:select:1, Length (mm):select:1;3.3:1, 7:1;;TANSDF3307;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+70;AnyRidge Surgical Stopper Drill;Diameter:select:1, Length (mm):select:1;3.3:1, 8.5:2;;TANSDF3308;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+70;AnyRidge Surgical Stopper Drill;Diameter:select:1, Length (mm):select:1;3.3:1, 10:3;;TANSDF3310;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+70;AnyRidge Surgical Stopper Drill;Diameter:select:1, Length (mm):select:1;3.3:1, 11.5:4;;TANSDF3311;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+70;AnyRidge Surgical Stopper Drill;Diameter:select:1, Length (mm):select:1;4.8:1, 7:1;;TANSDF4807;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+70;AnyRidge Surgical Stopper Drill;Diameter:select:1, Length (mm):select:1;4.8:1, 8.5:2;;TANSDF4808;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+70;AnyRidge Surgical Stopper Drill;Diameter:select:1, Length (mm):select:1;4.8:1, 10:3;;TANSDF4810;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+70;AnyRidge Surgical Stopper Drill;Diameter:select:1, Length (mm):select:1;4.8:1, 11.5:4;;TANSDF4811;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+71;AnyRidge Surgical Point Trephine Bur;Diameter:select:1;5.0:1;;SPTB4050;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+72;AnyRidge Surgical Trephine Bur;Diameter:select:1, Type:select:1;3.5:1, Short:1;;TANTBL2535;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+72;AnyRidge Surgical Trephine Bur;Diameter:select:1, Type:select:1;5.0:1, Short:1;;TANTBL4050;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+72;AnyRidge Surgical Trephine Bur;Diameter:select:1, Type:select:1;6.0:1, Short:1;;TANTBL5060;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+72;AnyRidge Surgical Trephine Bur;Diameter:select:1, Type:select:1;7.0:1, Short:1;;TANTBL6070;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+72;AnyRidge Surgical Trephine Bur;Diameter:select:1, Type:select:1;3.5:1, Short:1;;TANTBE2535;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+72;AnyRidge Surgical Trephine Bur;Diameter:select:1, Type:select:1;5.0:1, Short:1;;TANTBE4050;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+72;AnyRidge Surgical Trephine Bur;Diameter:select:1, Type:select:1;6.0:1, Short:1;;TANTBE5060;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+72;AnyRidge Surgical Trephine Bur;Diameter:select:1, Type:select:1;7.0:1, Short:1;;TANTBE6070;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+73;AnyRidge Surgical Cortical Drill;Fixture Size:select:1;3.5:1;;TANCDL3500;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+73;AnyRidge Surgical Cortical Drill;Fixture Size:select:1;4.0-5.5:2;;TANCDL4055;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+73;AnyRidge Surgical Cortical Drill;Fixture Size:select:1;6.0-8.0:3;;TANCDL6080;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+74;AnyRidge Surgical Handpiece Connector;Length (mm):select:1, Type:select:1;5:1, Ultra Short:1;;TANHCU;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+74;AnyRidge Surgical Handpiece Connector;Length (mm):select:1, Type:select:1;10:2, Short:1;;TANHCS;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+74;AnyRidge Surgical Handpiece Connector;Length (mm):select:1, Type:select:1;15:3, Long:1;;TANHCL;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+74;AnyRidge Surgical Handpiece Connector;Length (mm):select:1, Type:select:1;10:4, Short Mini:1;;HCS17;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+74;AnyRidge Surgical Handpiece Connector;Length (mm):select:1, Type:select:1;15:5, Long Mini:1;;HCL17;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+75;AnyRidge Surgical Ratchet Connector;Length (mm):select:1, Type:select:1;6:1, Ultra Short:1;;TANREU;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+75;AnyRidge Surgical Ratchet Connector;Length (mm):select:1, Type:select:1;10:2, Short:1;;TANRES;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+75;AnyRidge Surgical Ratchet Connector;Length (mm):select:1, Type:select:1;15:3, Long:1;;TANREL;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+75;AnyRidge Surgical Ratchet Connector;Length (mm):select:1, Type:select:1;15:4, Short Mini:1;;RCS17;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+75;AnyRidge Surgical Ratchet Connector;Length (mm):select:1, Type:select:1;20:5, Long Mini:1;;RCL17;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+76;AnyRidge Surgical Hand Driver 1.2 Hex;Length (mm):select:1, Type:select:1;5:1, Ultra Short:1;;TCMHDU1200;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+76;AnyRidge Surgical Hand Driver 1.2 Hex;Length (mm):select:1, Type:select:1;10:2, Short:1;;TCMHDS1200;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+76;AnyRidge Surgical Hand Driver 1.2 Hex;Length (mm):select:1, Type:select:1;15:3, Long:1;;TCMHDL1200;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+76;AnyRidge Surgical Hand Driver 1.2 Hex;Length (mm):select:1, Type:select:1;20:3, Extra Long:1;;TCMHDE1200;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+77;AnyRidge Surgical Abutment Removal Driver;Length (mm):select:1;17.5:1;;TANMRD18;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+77;AnyRidge Surgical Abutment Removal Driver;Length (mm):select:1;25.0:2;;TANMRD25;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+79;AnyRidge Surgical Direction Indicator;Length (mm):select:1;1.9 2.8:1;;MDI2029;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+79;AnyRidge Surgical Direction Indicator;Length (mm):select:1;3.2 4.7:2;;MDI3348;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+80;AnyRidge Surgical Path Finder;Length (mm):select:1;10:1;;TANPFF3580;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+81;AnyRidge Surgical Torque Wrench and Adapter;Type:select:1;Torque Wrench:1;;MTW300A;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+81;AnyRidge Surgical Torque Wrench and Adapter;Type:select:1;Torque Wrench Adapter (Handpiece):2;;TTAI100;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+81;AnyRidge Surgical Torque Wrench and Adapter;Type:select:1;Torque Wrench Adapter (Ratchet):3;;TTAR100;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+82;AnyRidge Surgical Solid Driver;Solid Abutment Profile Diameter:select:1, Length (mm):1;4:1, 8.5:1;;TANSDS400;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+82;AnyRidge Surgical Solid Driver;Solid Abutment Profile Diameter:select:1, Length (mm):1;4:1, 13.5:2;;TANSDL400;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+82;AnyRidge Surgical Solid Driver;Solid Abutment Profile Diameter:select:1, Length (mm):1;5:2, 8.5:1;;TANSDS500;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+82;AnyRidge Surgical Solid Driver;Solid Abutment Profile Diameter:select:1, Length (mm):1;5:2, 13.5:2;;TANSDL500;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+82;AnyRidge Surgical Solid Driver;Solid Abutment Profile Diameter:select:1, Length (mm):1;6:3, 8.5:1;;TANSDS600;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+82;AnyRidge Surgical Solid Driver;Solid Abutment Profile Diameter:select:1, Length (mm):1;6:3, 13.5:2;;TANSDL600;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+82;AnyRidge Surgical Solid Driver;Solid Abutment Profile Diameter:select:1, Length (mm):1;7:4, 8.5:1;;TANSDS700;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+82;AnyRidge Surgical Solid Driver;Solid Abutment Profile Diameter:select:1, Length (mm):1;7:4, 13.5:2;;TANSDL700;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+83;AnyRidge Surgical Octa Driver;Length (mm):select:1;7:1;;MOD300S;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+83;AnyRidge Surgical Octa Driver;Length (mm):select:1;13:2;;MOD300L;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+84;AnyRidge Surgical Ball Driver;Type:select:1;Handpiece Connector(Short):1;;TBH250S;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+84;AnyRidge Surgical Ball Driver;Type:select:1;Handpiece Connector(Long):2;;TBH250L;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+84;AnyRidge Surgical Ball Driver;Type:select:1;Ratchet Connector(Short):3;;TBR250S;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+84;AnyRidge Surgical Ball Driver;Type:select:1;Ratchet Connector(Long):4;;TBR250L;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+84;AnyRidge Surgical Ball Driver;Type:select:1;Toque Driver(Short):5;;TBT250S;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+84;AnyRidge Surgical Ball Driver;Type:select:1;Toque Driver(Long):6;;TBT250L;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+85;AnyRidge Surgical Impression Driver;Length (mm):select:1;Short:1;;TCMID;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+85;AnyRidge Surgical Impression Driver;Length (mm):select:1;Long:2;;TCMIDE;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+86;AnyRidge Surgical BonEx Expander;Diameter:select:1, Length (mm):select:1, Marking line (mm):select:1;2.4:1, 18:1, 7 8.5 10 11.5:1;;TCMBE2413;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+86;AnyRidge Surgical BonEx Expander;Diameter:select:1, Length (mm):select:1, Marking line (mm):select:1;2.8:1, 18:1, 7 8.5 10 11.5:1;;TCMBE2813;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+86;AnyRidge Surgical BonEx Expander;Diameter:select:1, Length (mm):select:1, Marking line (mm):select:1;3.3:1, 18:1, 7 8.5 10 11.5:1;;TCMBE3313;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+86;AnyRidge Surgical BonEx Expander;Diameter:select:1, Length (mm):select:1, Marking line (mm):select:1;3.8:1, 18:1, 7 8.5 10 11.5:1;;TCMBE3813;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+86;AnyRidge Surgical BonEx Expander;Diameter:select:1, Length (mm):select:1, Marking line (mm):select:1;4.3:1, 18:1, 7 8.5 10 11.5:1;;TCMBE4313;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+86;AnyRidge Surgical BonEx Expander;Diameter:select:1, Length (mm):select:1, Marking line (mm):select:1;4.8:1, 18:1, 7 8.5 10 11.5:1;;TCMBE4813;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+87;AnyRidge Surgical Bone Profiler and Guide Pin;Profile Diameter:select:1, Length (mm):select:1;4:1, 13:1;;TANBPL40G;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+87;AnyRidge Surgical Bone Profiler and Guide Pin;Profile Diameter:select:1, Length (mm):select:1;5:2, 13:1;;TANBPL50G;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+87;AnyRidge Surgical Bone Profiler and Guide Pin;Profile Diameter:select:1, Length (mm):select:1;6:3, 8:1;;TANBPS60G;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+87;AnyRidge Surgical Bone Profiler and Guide Pin;Profile Diameter:select:1, Length (mm):select:1;7:4, 8:1;;TANBPS70G;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+88;AnyRidge Surgical Tephine Bur Stopper;Length (mm):select:1;7.0:1;;TANTSF2307;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+88;AnyRidge Surgical Tephine Bur Stopper;Length (mm):select:1;8.5:1;;TANTSF2308;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+88;AnyRidge Surgical Tephine Bur Stopper;Length (mm):select:1;10.0:1;;TANTSF2310;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+88;AnyRidge Surgical Tephine Bur Stopper;Length (mm):select:1;11.5:1;;TANTSF2311;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+90;AnyRidge Surgical Reamer Drill and Center Pin;Diameter:select:1, Type:select:1;10.0:1, Reamer Drill:1;;TANRD;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+90;AnyRidge Surgical Reamer Drill and Center Pin;Diameter:select:1, Type:select:1;4.0:2, Center Pin;;TANRDJ40;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+90;AnyRidge Surgical Reamer Drill and Center Pin;Diameter:select:1, Type:select:1;5.0:2, Center Pin;;TANRDJ50;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+90;AnyRidge Surgical Reamer Drill and Center Pin;Diameter:select:1, Type:select:1;6.0:2, Center Pin;;TANRDJ60;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+90;AnyRidge Surgical Reamer Drill and Center Pin;Diameter:select:1, Type:select:1;7.0:2, Center Pin;;TANRDJ70;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+91;AnyRidge Surgical Bottom Drill;Diameter:select:1, Type:select:1;3.3:1, Short (32mm):1;;TCMBDS33;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+91;AnyRidge Surgical Bottom Drill;Diameter:select:1, Type:select:1;3.8:1, Short (32mm):1;;TCMBDS38;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+91;AnyRidge Surgical Bottom Drill;Diameter:select:1, Type:select:1;4.8:1, Short (32mm):1;;TCMBDS48;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+91;AnyRidge Surgical Bottom Drill;Diameter:select:1, Type:select:1;5.8:1, Short (32mm):1;;TCMBDS58;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+91;AnyRidge Surgical Bottom Drill;Diameter:select:1, Type:select:1;6.8:1, Short (32mm):1;;TCMBDS68;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+91;AnyRidge Surgical Bottom Drill;Diameter:select:1, Type:select:1;3.3:1, Long (38mm):1;;TCMBDL33;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+91;AnyRidge Surgical Bottom Drill;Diameter:select:1, Type:select:1;3.8:1, Long (38mm):1;;TCMBDL38;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+91;AnyRidge Surgical Bottom Drill;Diameter:select:1, Type:select:1;4.8:1, Long (38mm):1;;TCMBDL48;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+91;AnyRidge Surgical Bottom Drill;Diameter:select:1, Type:select:1;5.8:1, Long (38mm):1;;TCMBDL58;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+91;AnyRidge Surgical Bottom Drill;Diameter:select:1, Type:select:1;6.8:1, Long (38mm):1;;TCMBDL68;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+92;AnyRidge Surgical Multi-unit Driver 2.0 Hex;Length (mm):select:1, Type:select:1;10:1, Short:1;;TCMMUDS20;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+92;AnyRidge Surgical Multi-unit Driver 2.0 Hex;Length (mm):select:1, Type:select:1;15:2, Long:1;;TCMMUDL20;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+93;AnyRidge Surgical Hand Driver 1.6 Hex;Length (mm):select:1, Type:select:1;10:1, Short:1;;TCMHDS1600;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+93;AnyRidge Surgical Hand Driver 1.6 Hex;Length (mm):select:1, Type:select:1;15:2, Long:1;;TCMHDL1600;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+95;i-Gen Screw;Type:select:1, Cuff Height (mm):select:1;M1.8:1, 1.0:1;;IA1810;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+95;i-Gen Screw;Type:select:1, Cuff Height (mm):select:1;M1.8:1, 2.0:2;;IA1820;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+95;i-Gen Screw;Type:select:1, Cuff Height (mm):select:1;M1.8:1, 3.0:3;;IA1830;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+96;i-Gen Cover Screw;Type:select:1, Height (mm):select:1;Hex 1.2:1, 1.0:1;;ICS3510;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+97;i-Gen Membrane;Type:select:1, PL:select:1, BW:select:1, BL:select:1, BD:select:1, LW:select:1, LL:select:1;A1:1, 4:1, 9:1, 11:1, 4.5:1, -:1, -:1;;IG1W4509;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+97;i-Gen Membrane;Type:select:1, PL:select:1, BW:select:1, BL:select:1, BD:select:1, LW:select:1, LL:select:1;A2:2, 4:1, 10:1, 11:1, 5.5:1, -:1, -:1;;IG1W5510;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+97;i-Gen Membrane;Type:select:1, PL:select:1, BW:select:1, BL:select:1, BD:select:1, LW:select:1, LL:select:1;A3:3, 4:1, 11:1, 11:1, 6.5:1, -:1, -:1;;IG1W6511;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+97;i-Gen Membrane;Type:select:1, PL:select:1, BW:select:1, BL:select:1, BD:select:1, LW:select:1, LL:select:1;B1:3, 5:1, 9:1, 11:1, 4.5:1, -:1, -:1;;IG2W0918;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+97;i-Gen Membrane;Type:select:1, PL:select:1, BW:select:1, BL:select:1, BD:select:1, LW:select:1, LL:select:1;B2:3, 6.5:1, 11:1, 11:1, 5.5:1, -:1, -:1;;IG2W1120;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+97;i-Gen Membrane;Type:select:1, PL:select:1, BW:select:1, BL:select:1, BD:select:1, LW:select:1, LL:select:1;B3:3, 9:1, 13:1, 11:1, 6:1, -:1, -:1;;IG2W1323;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+97;i-Gen Membrane;Type:select:1, PL:select:1, BW:select:1, BL:select:1, BD:select:1, LW:select:1, LL:select:1;C1:3, 5:1, 9:1, 11:1, 4.5:1, 6:1, 4.25:1;;IG3W0921;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+97;i-Gen Membrane;Type:select:1, PL:select:1, BW:select:1, BL:select:1, BD:select:1, LW:select:1, LL:select:1;C2:3, 6.5:1, 11:1, 11:1, 5.5:1, 8:1, 4.25:1;;IG3W1125;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+97;i-Gen Membrane;Type:select:1, PL:select:1, BW:select:1, BL:select:1, BD:select:1, LW:select:1, LL:select:1;C3:3, 9:1, 13:1, 11:1, 6:1, 10:1, 9:1;;IG3W1328;;;;0;;1000;1;0;0;;;;0;1;0;0;0
+98;MEG-TORQ / MEGA ISQ SmartPeg;Thread (mm):select:1;1.8:1;;OSSTELL-AR67;;;;0;;1000;1;0;1;;;;0;1;0;0;0
+100;MEG-TORQ / MEGA ISQ Right Angle Driver 3.0 Hex;Diameter (mm):select:1;4.2:1;;RDI30U;;;;0;;1000;1;0;1;;;;0;1;0;0;0

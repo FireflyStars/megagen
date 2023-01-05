@@ -1,0 +1,247 @@
+ID;Active (0 /1);Name *;Categories (ID1,ID2...);Price in EUR;Tax rules ID;Wholesale price;On sale (0 /1);Discount amount;Discount percent;Discount from (yyyy-mm-dd);Discount to (yyyy-mm-dd);Product Code;Supplier reference #;Supplier;Manufacturer;EAN13;UPC;Ecotax;Width;Height;Depth;Weight;Quantity;Minimal quantity;Visibility (search|catalog|both|none);Additional shipping cost;Unity;Unit price;Short description (  Description );Description;Tags (x,y,z...);Meta title;Meta keywords;Meta description;URL rewritten;Text when in stock;Text when backorder allowed;Available for order (0  No, 1  Yes);Product available date;Product creation date;Show price (0  No, 1  Yes);Image URL;Delete existing images (0  No, 1  Yes);Feature(Name:Value:Position);Available online only (0  No, 1  Yes);Condition;Customizable (0  No, 1  Yes);Uploadable files (0  No, 1  Yes);Text fields (0  No, 1  Yes);Out of stock;ID  / Name of shop;Advanced stock management;Depends On Stock;Warehouse
+1;1;Test product [test only];30;0.02;68;;0;;;;;TESTONLY;;;AnyRidge;;;;;;;;1000;;both;;;;;;;;;;TESTONLY;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/TESTONLY.png;1;;;new;;;;;;;;
+2;1;AnyRidge Internal Fixture;30;159.00;68;;0;;;;;FALIHX6007C;;;AnyRidge;;;;;;;;1000;;both;;;;Cover Screw included.;"- Availability of 7mm product is subject to local approval.
+- Europe certified only. Not for Korean domestic users.";;;;;FALIHX6007C;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/FALIHX6007C.png;1;;;new;;;;;;;;
+3;1;AnyRidge Cover Screw;30;21.00;68;;0;;;;;AANCSF3508;;;AnyRidge;;;;;;;;1000;;both;;;;Included in fixture package.;"- Use with a Hand Driver(1.2 Hex).
+- Used for submerged type surgery.
+- Protects the inner structure of a fixture.
+- Different heights can be chosen according to the position of fixture below the crest.
+- 1.6mm and 2.6mm height of Cover Screw can be purchased separately.";;;;;AANCSF3508;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/AANCSF3508.png;1;;;new;;;;;;;;
+4;1;AnyRidge Healing Abutment;30;25.00;68;;0;;;;;AANHAF0403;;;AnyRidge;;;;;;;;1000;;both;;;;;"- Use with a Hand Driver(1.2 Hex).
+- Used for non-submerged type surgery or for two stage surgery.
+- Choose appropriate diameter and height of Healing Abutment according to situation.
+- Helps to form suitable emergence profile during period of gingival healing.";;;;;AANHAF0403;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/AANHAF0403.png;1;;;new;;;;;;;;
+5;1;AnyRidge Abutment Impression Coping Transfer Type;310;42.00;68;;0;;;;;AANITH4012T;;;AnyRidge;;;;;;;;1000;;both;;;;For Closed-tray Technique.;"- Streamlined shape ; easy to transfer.
+- Anti-rotation grooves match with hex structure of fixtures.
+- Should be tightened with Impression Driver or
+ Hand Driver(1.2 Hex).";;;;;AANITH4012T;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/AANITH4012T.png;1;;;new;;;;;;;;
+6;1;AnyRidge Abutment Impression Coping Pick-up Type;310;48.00;68;;0;;;;;AANIPH4012T;;;AnyRidge;;;;;;;;1000;;both;;;;"For Closed-tray Technique. - Guide Pins : AANGPP0010 (7mm : Short) /
+ AANGPP0015 (12mm : Long) / AANGPP0020 (20mm : Extra-long)";"- Square structure ; strong anti - rotation function.
+- Designed for easy and accurate pick-up impression.
+- Extra-long guide pin can be purchased separately.";;;;;AANIPH4012T;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/AANIPH4012T.png;1;;;new;;;;;;;;
+7;1;AnyRidge Abutment Lab Analog;310;14.00;68;;0;;;;;AANLAF4055;;;AnyRidge;;;;;;;;1000;;both;;;;(Fixture Level);"- Square structure ; strong anti - rotation function.
+- Designed for easy and accurate pick-up impression.
+- Extra-long guide pin can be purchased separately.";;;;;AANLAF4055;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/AANLAF4055.png;1;;;new;;;;;;;;
+8;1;AnyRidge Abutment Temporary;310;45.00;68;;0;;;;;AANTMH4012T;;;AnyRidge;;;;;;;;1000;;both;;;;"(Titanium)
+ - Multi Post Screw(AANMSF) included.";"- For making provisional restoration.
+- Grooved on the post allows strong resin adherence.";;;;;AANTMH4012T;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/AANTMH4012T.png;1;;;new;;;;;;;;
+9;1;AnyRidge Abutment Fuse;310;85.00;68;;0;;;;;AFAP5535P;;;AnyRidge;;;;;;;;1000;;both;;;;"- Straight, 15°, 25° ; Multi Post Screw(AANMSF) included
++ Fuse Cap included.
+- Milling ; Multi Post Screw(AANMSF) included.";;;;;;AFAP5535P;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/AFAP5535P.png;1;;;new;;;;;;;;
+10;1;AnyRidge Abutment EZ Post;310;79.00;68;;0;;;;;AANEPH4025L;;;AnyRidge;;;;;;;;1000;;both;;;;- Multi Post Screw(AANMSF/AANMST) included.;"- Use with a Hand Driver (1.2 Hex).
+- Esthetic gold coloring.
+- Two different post heights. (5.5, 7.0mm)
+- Four different profile diameters. (Ø4.0, 5.0, 6.0, 7.0)
+- Four different cuff heights. (2.0, 3.0, 4.0, 5.0mm)";;;;;AANEPH4025L;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/AANEPH4025L.png;1;;;new;;;;;;;;
+11;1;AnyRidge Abutment ECLA;310;182.40;68;;0;;;;;AANGAH4012L;;;AnyRidge;;;;;;;;1000;;both;;;;- Multi Post Screw(AANMSF/AANMST) included.;"- Useful to make a customized abutment in difficult situations.
+- Precious and non-precious alloys.
+- Melting point of gold alloy : 1400 - 1450?
+- Threaded sleeves for convenient Resin / Wax-up.";;;;;AANGAH4012L;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/AANGAH4012L.png;1;;;new;;;;;;;;
+12;1;AnyRidge Abutment Zirconia;310;85.00;68;;0;;;;;AANZAH4012L;;;AnyRidge;;;;;;;;1000;;both;;;;- Multi Post Screw(AANMSF/AANMST) included.;"- For aesthetic use.
+- Natural white color with pre-sintered zirconia sleeve.";;;;;AANZAH4012L;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/AANZAH4012L.png;1;;;new;;;;;;;;
+13;1;AnyRidge Abutment Milling;310;79.00;68;;0;;;;;AANMAH4029L;;;AnyRidge;;;;;;;;1000;;both;;;;- Multi Post Screw(AANMSF/AANMST) included.;- Long post enables easier customization by milling.;;;;;AANMAH4029L;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/AANMAH4029L.png;1;;;new;;;;;;;;
+14;1;AnyRidge Abutment Angled;310;110.00;68;;0;;;;;AANAAH4215L;;;AnyRidge;;;;;;;;1000;;both;;;;- Multi Post Screw(AANMSF/AANMST) included.;"- Two different angulations. (15°, 25°)
+- Four different profile diameters. (Ø4.0, 5.0, 6.0, 7.0)
+- Four different cuff heights. (2, 3, 4, 5mm)
+- Can cover 12 different directions. [six to the surface(Hex), six to the edge of hex(Hex-E)]
+- Esthetic gold coloring.
+- Minimized screw head length needs minimum height to prevent milling problems.";;;;;AANAAH4215L;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/AANAAH4215L.png;1;;;new;;;;;;;;
+15;1;AnyRidge Abutment CCM;310;110.00;68;;0;;;;;AANCAH4012L;;;AnyRidge;;;;;;;;1000;;both;;;;- Multi Post Screw(AANMSF/AANMST) included.;"- Useful to make a customized abutment in difficult situations.
+- Can be casted with non-precious alloys(Ni-Cr, Cr-Co alloys).
+- Non-precious melting temperature : Depend on Manufacturer
+- Threaded sleeves for convenient Resin / Wax-up.
+- Melting temperature of CCM : 1380 - 1420?";;;;;AANCAH4012L;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/AANCAH4012L.png;1;;;new;;;;;;;;
+16;1;AnyRidge Abutment Extra EZ Post;310;79.00;68;;0;;;;;AANEEH4517L;;;AnyRidge;;;;;;;;1000;;both;;;;- Multi Post Screw(AANMSF/AANMST) included.;"- Only when satisfactory emergence profile cannot be obtained due to thin gingiva or shallow positioned fixture.
+- Useful when fixture is exposed over the gum line.";;;;;AANEEH4517L;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/AANEEH4517L.png;1;;;new;;;;;;;;
+17;1;AnyRidge Abutment Lab Analog for use Extra EZ Post;310;14.00;68;;0;;;;;AANLAF35;;;AnyRidge;;;;;;;;1000;;both;;;;;"- AANLAF35 used for AANEEH4517.
+- AANLAF4055 used for AANEEH5517.
+- AANLAF6080 used for AANEEH6517.";;;;;AANLAF35;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/AANLAF35.png;1;;;new;;;;;;;;
+18;1;AnyRidge Abutment Selection Guide Kit;310;250.00;68;;0;;;;;KANASG3000;;;AnyRidge;;;;;;;;1000;;both;;;;"- Colors indicate different cuff heights (Yellow : 2mm, White : 3mm, Pink : 4mm, Red : 5mm)
+- Store 2pieces in each container
+- Use autoclave to sterilize";;;;;;KANASG3000;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/KANASG3000.png;1;;;new;;;;;;;;
+19;1;AnyRidge Abutment Solid Abutment;311;79.00;68;;0;;;;;AANSAL4024;;;AnyRidge;;;;;;;;1000;;both;;;;;"- Used in cement retained restoration only.
+- Solid Abutment should be placed into patient’s mouth before taking impression.
+- Onebody (screw + abutment)
+- Should be tightened with a Solid Driver and a Torque Wrench : 35Ncm)
+- Four different profile diameters. (Ø4.0/5.0/6.0/7.0)
+- Should be tightened with special Solid Driver.
+- Wider profile has bigger post angulation.(4mm - 8°, 5mm - 10°, 6mm - 12°, 7mm - 14°)
+- Four different cuff heights. (2/3/4/5mm)
+- Three different post heights. (4/5.5/7mm)";;;;;AANSAL4024;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/AANSAL4024.png;1;;;new;;;;;;;;
+20;1;AnyRidge Abutment Snap Impression Coping;311;15.00;68;;0;;;;;AANSIF440;;;AnyRidge;;;;;;;;1000;;both;;;;;"- For impression on Solid Abutments.
+- 3 color coded for different post heights.
+- 4 different diameters for profile diameters. (Ø4, 5, 6, 7)
+- Do not use when abutment is trimmed.";;;;;AANSIF440;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/AANSIF440.png;1;;;new;;;;;;;;
+21;1;AnyRidge Abutment Comfort Cap;311;9.00;68;;0;;;;;AANCCF440;;;AnyRidge;;;;;;;;1000;;both;;;;;"- Protects the Solid Abutment and minimizes irritation to tongue and oral mucosa.
+- Can be applied under temporary prosthetics.
+- Color coded according to post heights.";;;;;AANCCF440;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/AANCCF440.png;1;;;new;;;;;;;;
+22;1;AnyRidge Abutment Lab Analog;311;14.00;68;;0;;;;;AANSLF440;;;AnyRidge;;;;;;;;1000;;both;;;;(Solid Level);"Directly connected to the Snap Impression Coping
+in the impression to make a stone model.";;;;;AANSLF440;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/AANSLF440.png;1;;;new;;;;;;;;
+23;1;AnyRidge Abutment Burn-out Cylinder;311;14.00;68;;0;;;;;AANBCB470;;;AnyRidge;;;;;;;;1000;;both;;;;;"- Fits with a Lab Analog(solid level).
+- Easy to wax-up and accurate casting.
+- White Cylinder for multiple unit.
+- Red Cylinder for single crown.";;;;;AANBCB470;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/AANBCB470.png;1;;;new;;;;;;;;
+24;1;AnyRidge Abutment Octa Abutment;312;105.00;68;;0;;;;;AANOAF4010;;;AnyRidge;;;;;;;;1000;;both;;;;;"- Used in manufacturing multiple screw-retained prosthetics.
+- Compatible with Strauman’s Octa Abutment system.
+- Use an Octa Abutment Driver : 35Ncm
+- Maximum path angle : 70?";;;;;AANOAF4010;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/AANOAF4010.png;1;;;new;;;;;;;;
+25;1;AnyRidge Abutment Healing Cap and Octa Cylinder Cap;312;29.00;68;;0;;;;;AANOHC4000T;;;AnyRidge;;;;;;;;1000;;both;;;;- Cylinder Screw(IRCS200) included.;Protects Octa Abutment and minimizes irritation to tongue and oral mucosa.;;;;;AANOHC4000T;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/AANOHC4000T.png;1;;;new;;;;;;;;
+26;1;AnyRidge Abutment Octa Impression Coping;312;48.00;68;;0;;;;;AAOITO4010T;;;AnyRidge;;;;;;;;1000;;both;;;;(Transfer) - Guide Pin included.;;;;;;AAOITO4010T;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/AAOITO4010T.png;1;;;new;;;;;;;;
+27;1;AnyRidge Abutment Impression Coping Pick-up Type;312;48.00;68;;0;;;;;AAOIPO4010T;;;AnyRidge;;;;;;;;1000;;both;;;;- Guide Pin included.;;;;;;AAOIPO4010T;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/AAOIPO4010T.png;1;;;new;;;;;;;;
+28;1;AnyRidge Abutment Lab Analog;312;14.00;68;;0;;;;;AANOLA4000;;;AnyRidge;;;;;;;;1000;;both;;;;;;;;;;AANOLA4000;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/AANOLA4000.png;1;;;new;;;;;;;;
+29;1;AnyRidge Abutment Temporary Cylinder;312;45.00;68;;0;;;;;AANOTCO4010T;;;AnyRidge;;;;;;;;1000;;both;;;;- Cylinder Screw(IRCS200) included.;;;;;;AANOTCO4010T;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/AANOTCO4010T.png;1;;;new;;;;;;;;
+30;1;AnyRidge Abutment EZ Post Cylinder;312;79.00;68;;0;;;;;AAOECO4005T;;;AnyRidge;;;;;;;;1000;;both;;;;- Cylinder Screw(IRCS200) included.;;;;;;AAOECO4005T;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/AAOECO4005T.png;1;;;new;;;;;;;;
+31;1;AnyRidge Abutment Gold Cylinder;312;182.40;68;;0;;;;;AANGCO4000TA;;;AnyRidge;;;;;;;;1000;;both;;;;- Cylinder Screw(IRCS200) included.;"- For customizing abutment for screw retained multiunit restoration.
+- Available in both octa(red) and non-octa(white).
+- Melting point of gold alloy : 1400 - 1450?
+- Threaded sleeves allow for better retention of resin or wax.
+- Available in three diameters (Ø4.0, 5.0, 6.0).
+- Recommend torque : 30Ncm";;;;;AANGCO4000TA;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/AANGCO4000TA.png;1;;;new;;;;;;;;
+32;1;AnyRidge Abutment CCM Cylinder;312;106.80;68;;0;;;;;AANCCO4000TB;;;AnyRidge;;;;;;;;1000;;both;;;;- Cylinder Screw(IRCS200) included.;"- Threaded sleeves allow for better retention of resin or wax.
+- Available in both octa (pink) and non-octa (yellow) and three diameters (Ø4.0, 5.0, 6.0).
+- Recommend torque : 30Ncm
+- Can be casted with non-precious alloys (Ni-Cr, Cr-Co alloys).";;;;;AANCCO4000TB;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/AANCCO4000TB.png;1;;;new;;;;;;;;
+33;1;AnyRidge Abutment Plastic Cylinder;312;58.80;68;;0;;;;;AAOTCO4010T;;;AnyRidge;;;;;;;;1000;;both;;;;- Cylinder Screw(IRCS200) included.;"- Economical option.
+- Used for customizing abutment for screw retained multi-unit restorations.
+- Available in both octa (red) and non-octa (white)
+- Threaded sleeves allow for better retention of resin or wax.";;;;;AAOTCO4010T;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/AAOTCO4010T.png;1;;;new;;;;;;;;
+34;1;AnyRidge Abutment Multi-unit Angled Abutment 17 degrees;313;118.80;68;;0;;;;;AANMUH50117L;;;AnyRidge;;;;;;;;1000;;both;;;;- Multi Post Screw(MUMMSF/MUMMST) included.;;;;;;AANMUH50117L;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/AANMUH50117L.png;1;;;new;;;;;;;;
+35;1;AnyRidge Abutment Multi-unit Angled Abutment 29 degrees;313;118.80;68;;0;;;;;AANMUH50129L;;;AnyRidge;;;;;;;;1000;;both;;;;- Multi Post Screw(MUMMSF/MUMMST) included.;;;;;;AANMUH50129L;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/AANMUH50129L.png;1;;;new;;;;;;;;
+36;1;AnyRidge Abutment Multi-unit Abutment Straight;313;106.80;68;;0;;;;;AANMUH5020T;;;AnyRidge;;;;;;;;1000;;both;;;;- Multi-unit Abutment Screw included.;- Use with Multi-unit Driver.;;;;;AANMUH5020T;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/AANMUH5020T.png;1;;;new;;;;;;;;
+37;1;AnyRidge Abutment Healing Cap;313;14.40;68;;0;;;;;REC600;;;AnyRidge;;;;;;;;1000;;both;;;;;;;;;;REC600;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/REC600.png;1;;;new;;;;;;;;
+38;1;AnyRidge Abutment Impression Coping Transfer Type;313;48.00;68;;0;;;;;RITE480;;;AnyRidge;;;;;;;;1000;;both;;;;;;;;;;RITE480;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/RITE480.png;1;;;new;;;;;;;;
+39;1;AnyRidge Abutment Impression Coping Pick-up Type;313;14.40;68;;0;;;;;RIEH480T;;;AnyRidge;;;;;;;;1000;;both;;;;- Guide Pin (RICG150) included;;;;;;RIEH480T;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/RIEH480T.png;1;;;new;;;;;;;;
+40;1;AnyRidge Abutment Lab Analog;313;14.40;68;;0;;;;;RELA300;;;AnyRidge;;;;;;;;1000;;both;;;;;;;;;;RELA300;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/RELA300.png;1;;;new;;;;;;;;
+41;1;AnyRidge Abutment Temporary Cylinder;313;14.40;68;;0;;;;;ETH100T;;;AnyRidge;;;;;;;;1000;;both;;;;- Cylinder Screw (TASH140) included;;;;;;ETH100T;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/ETH100T.png;1;;;new;;;;;;;;
+42;1;AnyRidge Abutment EZ Post Cylinder;313;14.40;68;;0;;;;;RCA900T;;;AnyRidge;;;;;;;;1000;;both;;;;- Cylinder Screw (TASH140) included;;;;;;RCA900T;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/RCA900T.png;1;;;new;;;;;;;;
+43;1;AnyRidge Abutment Gold Cylinder;313;106.80;68;;0;;;;;REGC200T;;;AnyRidge;;;;;;;;1000;;both;;;;- Cylinder Screw (TASH140) included;"- Useful to make a customized abutment in difficult situations.
+- Precious and non-precious alloys.
+- Melting point of gold alloy : 1400 - 1450?
+- Threaded sleeves for convenient Resin / Wax-up.";;;;;REGC200T;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/REGC200T.png;1;;;new;;;;;;;;
+44;1;AnyRidge Abutment CCM Cylinder;313;106.80;68;;0;;;;;RCA5013HT;;;AnyRidge;;;;;;;;1000;;both;;;;- Cylinder Screw (TASH140) included;"- Useful to make a customized abutment in difficult situations.
+- Can be casted with non-precious alloys (Ni-Cr, Cr-Co alloys).
+- Non-precious melting temperature : Depend on Manufacturer
+- Threaded sleeves for convenient Resin / Wax-up.
+- Melting temperature of CCM : 1380 - 1420?";;;;;RCA5013HT;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/RCA5013HT.png;1;;;new;;;;;;;;
+45;1;AnyRidge Abutment Plastic Cylinder;313;58.80;68;;0;;;;;RPEH100T;;;AnyRidge;;;;;;;;1000;;both;;;;- Cylinder Screw (TASH140) included;;;;;;RPEH100T;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/RPEH100T.png;1;;;new;;;;;;;;
+46;1;AnyRidge Abutment Flat Abutment;314;82.80;68;;0;;;;;AANFAL3510;;;AnyRidge;;;;;;;;1000;;both;;;;;;;;;;AANFAL3510;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/AANFAL3510.png;1;;;new;;;;;;;;
+47;1;AnyRidge Abutment Flat Cover Screw;314;82.80;68;;0;;;;;FCS3510;;;AnyRidge;;;;;;;;1000;;both;;;;;;;;;;FCS3510;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/FCS3510.png;1;;;new;;;;;;;;
+48;1;AnyRidge Abutment Flat Healing Abutment;314;82.80;68;;0;;;;;FHA402;;;AnyRidge;;;;;;;;1000;;both;;;;;;;;;;FHA402;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/FHA402.png;1;;;new;;;;;;;;
+49;1;AnyRidge Abutment Flat Impression Coping Transfer Type;314;48.00;68;;0;;;;;FIT4012T;;;AnyRidge;;;;;;;;1000;;both;;;;- Guide Pin (FGPT) included.;;;;;;FIT4012T;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/FIT4012T.png;1;;;new;;;;;;;;
+50;1;AnyRidge Abutment Flat Impression Coping Pick-up Type;314;48.00;68;;0;;;;;FIP4012T;;;AnyRidge;;;;;;;;1000;;both;;;;- Guide pin (FGPP15) included.;;;;;;FIP4012T;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/FIP4012T.png;1;;;new;;;;;;;;
+51;1;AnyRidge Abutment Flat Lab Analog;314;14.40;68;;0;;;;;FLA3512;;;AnyRidge;;;;;;;;1000;;both;;;;;;;;;;FLA3512;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/FLA3512.png;1;;;new;;;;;;;;
+52;1;AnyRidge Abutment Temporary Cylinder;314;48.00;68;;0;;;;;FTC4012T;;;AnyRidge;;;;;;;;1000;;both;;;;- Flat Cylinder Screw (FAS) included.;;;;;;FTC4012T;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/FTC4012T.png;1;;;new;;;;;;;;
+53;1;AnyRidge Abutment Flat EZ Post Cylinder;314;54.00;68;;0;;;;;FEC4005T;;;AnyRidge;;;;;;;;1000;;both;;;;- Flat Cylinder Screw (FAS) included.;;;;;;FEC4005T;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/FEC4005T.png;1;;;new;;;;;;;;
+54;1;AnyRidge Abutment Flat Gold Cylinder;314;182.40;68;;0;;;;;FGC4012TA;;;AnyRidge;;;;;;;;1000;;both;;;;- Flat Cylinder Screw (FAS) included.;"- Useful to make a customized abutment in difficult situations.
+- Precious and non-precious alloys.
+- Melting point of gold alloy : 1400 - 1450?
+- Threaded sleeves for convenient Resin / Wax-up.";;;;;FGC4012TA;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/FGC4012TA.png;1;;;new;;;;;;;;
+55;1;AnyRidge Abutment Flat CCM Cylinder;314;106.80;68;;0;;;;;FCC4012TB;;;AnyRidge;;;;;;;;1000;;both;;;;- Flat Cylinder Screw (FAS) included.;"- Useful to make a customized abutment in difficult situations.
+- Can be casted with non-precious alloys (Ni-Cr, Cr-Co alloys).
+- Non-precious melting temperature : Depend on Manufacturer
+- Threaded sleeves for convenient Resin / Wax-up.
+- Melting temperature of CCM : 1380 - 1420?";;;;;FCC4012TB;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/FCC4012TB.png;1;;;new;;;;;;;;
+56;1;AnyRidge Abutment Flat Plastic Cylinder;314;58.80;68;;0;;;;;FPC4012TC;;;AnyRidge;;;;;;;;1000;;both;;;;- Flat Cylinder Screw (FAS) included.;;;;;;FPC4012TC;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/FPC4012TC.png;1;;;new;;;;;;;;
+57;1;AnyRidge Abutment Meg-Rhein Package;315;82.80;68;;0;;;;;ADR00P;;;AnyRidge;;;;;;;;1000;;both;;;;"- 1 Meg-Rhein Abutment
+- 1 Plastic Carrier
+- 1 Stainless Steel Housing
+- 3 Retentive Caps (Black, Yellow, Pink)";"- Perfect compatibility with the Rhein83 from Italy.
+- Recommend torque ; 35Ncm.";;;;;ADR00P;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/ADR00P.png;1;;;new;;;;;;;;
+58;1;AnyRidge Abutment Meg-Rhein Retentive Caps;315;82.80;68;;0;;;;;140CET;;;AnyRidge;;;;;;;;1000;;both;;;;White, Violet or Stainless Steel Housing;"- White cap(1.8kg) - For refill (4ea/pack)
+- Violet cap(2.7kg) - For refill (4ea/pack)
+- Stainless Steel 2ea/pack";;;;;140CET;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/140CET.png;1;;;new;;;;;;;;
+59;1;AnyRidge Abutment Meg-Rhein Insertion Tool;315;82.80;68;;0;;;;;085IAC;;;AnyRidge;;;;;;;;1000;;both;;;;;;;;;;085IAC;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/085IAC.png;1;;;new;;;;;;;;
+60;1;AnyRidge Abutment Meg-Rhein Removal Tool;315;82.80;68;;0;;;;;091EC;;;AnyRidge;;;;;;;;1000;;both;;;;;;;;;;091EC;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/091EC.png;1;;;new;;;;;;;;
+61;1;AnyRidge Abutment Meg-Rhein Stainless Impression Coping Pick-up;315;82.80;68;;0;;;;;044CAIN;;;AnyRidge;;;;;;;;1000;;both;;;;;"- 2ea/pack.
+- Italy - Rhein 83 products.
+- For accurate (pick-up type) impression.
+- Metal with groove design to prevent from swaying.";;;;;044CAIN;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/044CAIN.png;1;;;new;;;;;;;;
+62;1;AnyRidge Abutment Meg-Rhein Lab Analog;315;82.80;68;;0;;;;;PLA;;;AnyRidge;;;;;;;;1000;;both;;;;;- To make denture model.;;;;;PLA;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/PLA.png;1;;;new;;;;;;;;
+63;1;AnyRidge Surgical Kit Standard Type;41;1798.80;68;;0;;;;;KARIN3003;;;AnyRidge;;;;;;;;1000;;both;;;;;;;;;;KARIN3003;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/KARIN3003.png;1;;;new;;;;;;;;
+64;1;AnyRidge Surgical Kit Full Type;41;2640.40;68;;0;;;;;KARIN3001;;;AnyRidge;;;;;;;;1000;;both;;;;;;;;;;KARIN3001;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/KARIN3001.png;1;;;new;;;;;;;;
+65;1;AnyRidge Surgical Kit Prosthetics Kit;41;2640.40;68;;0;;;;;KANPK3000;;;AnyRidge;;;;;;;;1000;;both;;;;;;;;;;KANPK3000;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/KANPK3000.png;1;;;new;;;;;;;;
+66;1;AnyRidge Surgical Kit BonEx Kit;41;2640.40;68;;0;;;;;KBECS3000;;;AnyRidge;;;;;;;;1000;;both;;;;;;;;;;KBECS3000;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/KBECS3000.png;1;;;new;;;;;;;;
+67;1;AnyRidge Surgical Kit Bone Profiler Kit;41;526.80;68;;0;;;;;KARBP3000;;;AnyRidge;;;;;;;;1000;;both;;;;;;;;;;KARBP3000;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/KARBP3000.png;1;;;new;;;;;;;;
+68;1;AnyRidge Surgical Lance Drill;42;74.40;68;;0;;;;;MGD100L;;;AnyRidge;;;;;;;;1000;;both;;;;;"- Useful to make an indentation on cortical bone to confirm the exact drilling location.
+- Advisable to go into the bone to the full length of a fixture.";;;;;MGD100L;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/MGD100L.png;1;;;new;;;;;;;;
+69;1;AnyRidge Surgical Marking Drill;42;92.40;68;;0;;;;;TANTDF2018;;;AnyRidge;;;;;;;;1000;;both;;;;;"- Each drill has calibrations from 7.0 to 18.0mm. (TANSDF4815, TANSDF5415, TANSDF5915 have
+ calibrations up to 15.0mm)
+- Easy to recognize by dual marking systems. (Groove and laser marking)";;;;;TANTDF2018;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/TANTDF2018.png;1;;;new;;;;;;;;
+70;1;AnyRidge Surgical Stopper Drill;42;92.40;68;;0;;;;;TANTDF2007;;;AnyRidge;;;;;;;;1000;;both;;;;;;;;;;TANTDF2007;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/TANTDF2007.png;1;;;new;;;;;;;;
+71;1;AnyRidge Surgical Point Trephine Bur;42;92.40;68;;0;;;;;SPTB4050;;;AnyRidge;;;;;;;;1000;;both;;;;;;;;;;SPTB4050;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/SPTB4050.png;1;;;new;;;;;;;;
+72;1;AnyRidge Surgical Trephine Bur;42;92.40;68;;0;;;;;TANTBL2535;;;AnyRidge;;;;;;;;1000;;both;;;;* Separate sale item.;"- Minimizes the drilling steps needed, especially for wider fixtures.
+- Helpful for collecting autogenous bone.
+- Useful for removing failed and fractured fixtures.
+- Depth markings are 7, 8.5, 10, 11.5, 13mm, same depths as fixtures. (No Y dimension so markings are
+ actual length).
+- Markings on the drill shaft represent the inside / outside diameter of Trephine Burs.";;;;;TANTBL2535;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/TANTBL2535.png;1;;;new;;;;;;;;
+73;1;AnyRidge Surgical Cortical Drill;42;92.40;68;;0;;;;;TANCDL3500;;;AnyRidge;;;;;;;;1000;;both;;;;;"- Removes cortical bone and enlarges socket, especially in hard bone.
+- Similar function with Countersink of other systems.
+- Each drill has two steps of diameter for convenience.";;;;;TANCDL3500;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/TANCDL3500.png;1;;;new;;;;;;;;
+74;1;AnyRidge Surgical Handpiece Connector;42;92.40;68;;0;;;;;TANHCU;;;AnyRidge;;;;;;;;1000;;both;;;;* Separate sale item.;"- Delivers torque for the placement of a fixture with a handpiece.
+- Easy and secure pick-up and delivery.
+- Used to place implant without mount.
+- Marks on the shaft can indicate the position of
+ fixture platform, especially in flapless surgery.";;;;;TANHCU;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/TANHCU.png;1;;;new;;;;;;;;
+75;1;AnyRidge Surgical Ratchet Connector;42;92.40;68;;0;;;;;TANREU;;;AnyRidge;;;;;;;;1000;;both;;;;* Separate sale item.;"- Delivers torque for the placement or removal of a fixture with a Ratchet Wrench.
+- Secure a Ratchet Extension or Torque Wrench to a fixture before exerting force.
+- Too much torque force can result in damage to hex of a fixture.
+- Marks on the shaft can indicate the position of fixture platform, especially for flapless surgery.";;;;;TANREU;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/TANREU.png;1;;;new;;;;;;;;
+76;1;AnyRidge Surgical Hand Driver 1.2 Hex;42;68.40;68;;0;;;;;TCMHDU1200;;;AnyRidge;;;;;;;;1000;;both;;;;* Separate sale item.;"- Used for all Cover Screws, all Abutment Screws and all Healing Abutments.
+- Available in 4 lengths for added convenience.
+- Hand Driver can be directly inserted into the to Torque Wrench without using an adapter.
+- Hex tip can withstand 35-45Ncm of torque without distorting.";;;;;TCMHDU1200;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/TCMHDU1200.png;1;;;new;;;;;;;;
+77;1;AnyRidge Surgical Abutment Removal Driver;42;68.40;68;;0;;;;;TANMRD18;;;AnyRidge;;;;;;;;1000;;both;;;;* Separate sale item.;"- Used to remove final abutment ; use after removing Abutment Screw.
+- Insert straight into the abutment and rotate clockwise.
+- Long Abutment Removal Driver is to disconnect an abutment with a cemented crown.";;;;;TANMRD18;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/TANMRD18.png;1;;;new;;;;;;;;
+78;1;AnyRidge Surgical Drill Extension;42;68.40;68;;0;;;;;MDE150;;;AnyRidge;;;;;;;;1000;;both;;;;;"- Extends drills & other handpiece tools.
+- No more than 35Ncm torque : Can be distorted when too much force is applied.";;;;;MDE150;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/MDE150.png;1;;;new;;;;;;;;
+79;1;AnyRidge Surgical Direction Indicator;42;22.80;68;;0;;;;;MDI2029;;;AnyRidge;;;;;;;;1000;;both;;;;;"- Confirms drilling direction and location during drilling.
+- To check drilling position.";;;;;MDI2029;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/MDI2029.png;1;;;new;;;;;;;;
+80;1;AnyRidge Surgical Path Finder;42;42.00;68;;0;;;;;TANPFF3580;;;AnyRidge;;;;;;;;1000;;both;;;;;"- After placing a fixture, a Path Finder can be connected
+ to check pre-placed fixture is parallel.
+- Gingival depth can be measured with the grooves, especially for flapless surgeries.";;;;;TANPFF3580;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/TANPFF3580.png;1;;;new;;;;;;;;
+81;1;AnyRidge Surgical Torque Wrench and Adapter;42;238.80;68;;0;;;;;MTW300A;;;AnyRidge;;;;;;;;1000;;both;;;;* Separate sale item.;- Torque Wrench has torque options from 15Ncm to 45Ncm and is used for final tightening of the Abutment Screw into the fixture.;;;;;MTW300A;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/MTW300A.png;1;;;new;;;;;;;;
+82;1;AnyRidge Surgical Solid Driver;42;42.00;68;;0;;;;;TANSDS400;;;AnyRidge;;;;;;;;1000;;both;;;;* Separate sale item.;"- For the delivery of Solid Abutments.
+- Color coded for different profile diameters. (Ø4-magenta, Ø5-blue, Ø6-yellow, Ø7-green)
+- Two different heights. (8.5 / 13.5mm)
+- Directly connectable to Torque Wrench.";;;;;TANSDS400;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/TANSDS400.png;1;;;new;;;;;;;;
+83;1;AnyRidge Surgical Octa Driver;42;42.00;68;;0;;;;;MOD300S;;;AnyRidge;;;;;;;;1000;;both;;;;;- For seating the Octa Abutment onto the fixture. Can also be connected to Torque Wrench.;;;;;MOD300S;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/MOD300S.png;1;;;new;;;;;;;;
+84;1;AnyRidge Surgical Ball Driver;42;42.00;68;;0;;;;;TBH250S;;;AnyRidge;;;;;;;;1000;;both;;;;* Separate sale item.;"- For seating the Ball Abutment onto the fixture.
+- Can connect to a Handpiece, Ratchet or Torque Wrench.
+- Available in long or short.";;;;;TBH250S;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/TBH250S.png;1;;;new;;;;;;;;
+85;1;AnyRidge Surgical Impression Driver;42;42.00;68;;0;;;;;TCMID;;;AnyRidge;;;;;;;;1000;;both;;;;;"- For transfer type of Impression Coping.
+- Works with friction only.
+- Small but powerful grip.";;;;;TCMID;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/TCMID.png;1;;;new;;;;;;;;
+86;1;AnyRidge Surgical BonEx Expander;42;238.80;68;;0;;;;;TCMBE2413;;;AnyRidge;;;;;;;;1000;;both;;;;;;;;;;TCMBE2413;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/TCMBE2413.png;1;;;new;;;;;;;;
+87;1;AnyRidge Surgical Bone Profiler and Guide Pin;42;134.40;68;;0;;;;;TANBPL40G;;;AnyRidge;;;;;;;;1000;;both;;;;;"- Removes bone around the fixture to allow adequate size of Healing Abutment.
+- Place a Guide Pin into a fixture and choose a Bone Profiler to fit the situation.
+- Each package includes a Bone Profiler, a Guide Pin.";;;;;TANBPL40G;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/TANBPL40G.png;1;;;new;;;;;;;;
+88;1;AnyRidge Surgical Tephine Bur Stopper;43;134.40;68;;0;;;;;TANTSF2307;;;AnyRidge;;;;;;;;1000;;both;;;;;"- Controls the depth of trephination with a Stopper placed into the Trephine.
+- Especially useful in cases with limited height bone.";;;;;TANTSF2307;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/TANTSF2307.png;1;;;new;;;;;;;;
+89;1;AnyRidge Surgical Manual Inserter;43;134.40;68;;0;;;;;TANMI;;;AnyRidge;;;;;;;;1000;;both;;;;;"- Specially designed for manual placement of AnyRidge fixture.
+- Especially useful at immediate implant placement on maxilla anterior.";;;;;TANMI;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/TANMI.png;1;;;new;;;;;;;;
+90;1;AnyRidge Surgical Reamer Drill and Center Pin;43;134.40;68;;0;;;;;TANRD;;;AnyRidge;;;;;;;;1000;;both;;;;;"- Removes inner lip of the cast after casting Burn-out Cylinders of Solid Abutment.
+- Center Pin have 4 different diameters according to
+ the profile diameter of Solid Abutments.";;;;;TANRD;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/TANRD.png;1;;;new;;;;;;;;
+91;1;AnyRidge Surgical Bottom Drill;43;134.40;68;;0;;;;;TCMBDS33;;;AnyRidge;;;;;;;;1000;;both;;;;;"- It removes remaining bone in osteotomy socket after trephine drilling.
+- It imprints the sizes of fixtures, for example 7, 8.5, 10,
+ 11.5 and 13mm, by laser marker.";;;;;TCMBDS33;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/TCMBDS33.png;1;;;new;;;;;;;;
+92;1;AnyRidge Surgical Multi-unit Driver 2.0 Hex;43;134.40;68;;0;;;;;TCMMUDS20;;;AnyRidge;;;;;;;;1000;;both;;;;(For Multi-unit Abutment);;;;;;TCMMUDS20;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/TCMMUDS20.png;1;;;new;;;;;;;;
+93;1;AnyRidge Surgical Hand Driver 1.6 Hex;43;134.40;68;;0;;;;;TCMHDS1600;;;AnyRidge;;;;;;;;1000;;both;;;;;;;;;;TCMHDS1600;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/TCMHDS1600.png;1;;;new;;;;;;;;
+94;1;AnyRidge Surgical Ratchet Wrench;43;134.40;68;;0;;;;;MRW040S;;;AnyRidge;;;;;;;;1000;;both;;;;;"- Used to exert more force than handpiece.
+- No bearing system : No breakage and corrosion problems.
+- Attaches to Ratchet Extension.
+- Arrow laser marking indicates direction of force.";;;;;MRW040S;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/MRW040S.png;1;;;new;;;;;;;;
+95;1;i-Gen Screw;51;134.40;68;;0;;;;;IA1810;;;AnyRidge;;;;;;;;1000;;both;;;;;"- Dentsply-Frident (Ankylos C/X Implant)
+- Zimmer (TSV)
+- Nobel Biocare (Nobel Replace Tapered Groovy)";;;;;IA1810;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/IA1810.png;1;;;new;;;;;;;;
+96;1;i-Gen Cover Screw;51;134.40;68;;0;;;;;ICS3510;;;AnyRidge;;;;;;;;1000;;both;;;;- Use Hand Driver(1.2 Hex);;;;;;ICS3510;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/ICS3510.png;1;;;new;;;;;;;;
+97;1;i-Gen Membrane;51;134.40;68;;0;;;;;IG1W4509;;;AnyRidge;;;;;;;;1000;;both;;;;;;;;;;IG1W4509;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/IG1W4509.png;1;;;new;;;;;;;;
+98;1;MEG-TORQ / MEGA ISQ SmartPeg;44;114.00;68;;0;;;;;OSSTELL-AR67;;;AnyRidge;;;;;;;;1000;;both;;;;;"- Recommend torque : 8~10Ncm
+- Uses Right Angled Driver (3.0 Hex Driver)";;;;;OSSTELL-AR67;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/OSSTELL-AR67.png;1;;;new;;;;;;;;
+99;1;MEG-TORQ;44;3598.80;68;;0;;;;;MEG-TORQ;;;AnyRidge;;;;;;;;1000;;both;;;;;;;;;;MEG-TORQ;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/MEG-TORQ.png;1;;;new;;;;;;;;
+100;1;MEG-TORQ / MEGA ISQ Right Angle Driver 3.0 Hex;44;134.40;68;;0;;;;;RDI30U;;;AnyRidge;;;;;;;;1000;;both;;;;;;;;;;RDI30U;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/RDI30U.png;1;;;new;;;;;;;;
+101;1;MEGA ISQ;44;3598.80;68;;0;;;;;OSSTELL-ISQ;;;AnyRidge;;;;;;;;1000;;both;;;;;;;;;;OSSTELL-ISQ;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/OSSTELL-ISQ.png;1;;;new;;;;;;;;
+102;1;911 Kit;45;3598.80;68;;0;;;;;KPSCS3000;;;AnyRidge;;;;;;;;1000;;both;;;;;;;;;;KPSCS3000;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/KPSCS3000.png;1;;;new;;;;;;;;
+103;1;911 Fixture Removal Kit;45;3598.80;68;;0;;;;;KPSFS3000;;;AnyRidge;;;;;;;;1000;;both;;;;;;;;;;KPSFS3000;In Stock;;1;;;1;http://local.shop.megagen.fr/img/import/products/KPSFS3000.png;1;;;new;;;;;;;;

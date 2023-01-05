@@ -1,0 +1,4 @@
+*ERROR* 	2020/04/28 - 06:15:45: Property Product->link_rewrite is empty at line 924 in file classes/ObjectModel.php
+*ERROR* 	2020/04/28 - 08:14:24: Property Product->link_rewrite is not valid at line 924 in file classes/ObjectModel.php
+*ERROR* 	2020/04/28 - 08:16:09: Property Product->link_rewrite is not valid at line 924 in file classes/ObjectModel.php
+*ERROR* 	2020/04/28 - 08:16:14: Property Product->link_rewrite is not valid at line 924 in file classes/ObjectModel.php
